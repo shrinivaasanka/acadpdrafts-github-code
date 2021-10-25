@@ -1,9 +1,9 @@
-				                        ** K.Srinivasan **
-		**(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
+				                        K.Srinivasan
+		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
 
-**Shortest CV ** - LatexPDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf
-**Longest CV  ** - PDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.pdf
-**Longest CV ­** - Text - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.txt
+Shortest CV - LatexPDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf
+Longest CV   - PDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.pdf
+Longest CV ­ - Text - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.txt
 
 Krishna iResearch Open Source Products -­open source research initiative of self  (2003 -­Present) ­
 ----------------------------------------------------------------------------------------------------
@@ -11,7 +11,7 @@ Profile (SourceForge) -  https://sourceforge.net/u/userid-769929/profile/
 Profile (GitHub) - https://github.com/shrinivaasanka
 Profile (GitLab) - https://gitlab.com/shrinivaasanka
 
-**NeuronRain ­ a new Machine Learning, Cloud and Messaging augmented OS:**
+NeuronRain ­ a new Machine Learning, Cloud and Messaging augmented OS:
 
 NeuronRain Research -­ SourceForge Repositories ­for astronomy datasets and academic research:
 ---------------------------------------------------------------------------------------------
@@ -67,13 +67,13 @@ Documentation)  - http://neuronrain-documentation.readthedocs.io/en/latest/
 
 Krishna iResearch (old link updated in 2006) - http://www.freelanceindia.com/Freelancer/Software_Programming_Database_Development/Others/viewprofile.asp?code=7291
 
-**Bifurcation of code bases into 32­bit and 64­bit previously has been chosen than branching/ifdefs because of**
-**drastic difference in linux kernel versions/functionalities/dependencies between base kernels for 32 and 64**
-**bits. The opensource codebases in SourceForge, GitHub and GitLab above are non funded,non profit academic**
-**research efforts. Premium technical support is available for above opensource codebases. GitHub/GitLab**
-**repositories implement NeuronRain Green and SourceForge repositories implement NeuronRain Research**
-**versions. Dual licensed closedsource premium commercial versions with enhanced features on above GPL**
-**products in development since 2010.**
+Bifurcation of code bases into 32­bit and 64­bit previously has been chosen than branching/ifdefs because of
+drastic difference in linux kernel versions/functionalities/dependencies between base kernels for 32 and 64
+bits. The opensource codebases in SourceForge, GitHub and GitLab above are non funded,non profit academic
+research efforts. Premium technical support is available for above opensource codebases. GitHub/GitLab
+repositories implement NeuronRain Green and SourceForge repositories implement NeuronRain Research
+versions. Dual licensed closedsource premium commercial versions with enhanced features on above GPL
+products in development since 2010.
 
 Free online course materials
 -----------------------------
@@ -135,7 +135,7 @@ Circuits for Complement of a function - old version - https://github.com
 NeuronRain Theory Drafts (2003-present) - private unaffiliated research - theory aligned to features of NeuronRain opensource products
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**Complexity Theoretic Analysis of Non-majority and Majority Social Choice, Majority Voting Boolean Composition Circuit and KRW Conjecture, P versus NP, ABC Conjecture, Four color Theorem, Zorn Lemma, Axiom of Choice (AOC), XOR Lemma and Hardness Amplification, Circuit Lowerbounds, Pseudorandomness(generators and extractors), Goodness of Voting and Margulis-Russo Threshold/Condorcet Jury Theorem (and its recent versions by [Black], [Ladha]), Theoretical Electronic Voting Machines and Pre-poll - Post-poll Analytics, Vowelless Syllable Boundary Text Compression and Compressed Sensing, Computational Chaos, Polynomial Reconstruction Problem, Complement Functions - Complementary Sets and their Function Representation(e.g Beatty Functions), Combinatorics (Ramsey coloring of sequences), PAC Learning, Prime-Composite complementation and pattern in primes, Goldbach Conjecture, Arithmetic Progressions, Diophantine Analysis and Representation, Riemann Zeta Function, Hypergeometric Functions, Clouds - Logical time and causality(EventNet), Formal Languages (Turing degrees, Embedding in vector space, Lambda Calculus, Category Theory, Logic) and learning lambda expressions from Natural Language Text, Cognitive Psychology - Grounded Cognition and ThoughtNet Evocation, Partial order intrinsic merit rankings and Galois connections, Graph theoretic/Computational Neurolinguistic/Question-Answering Interview Intrinsic Merit/Fitness/Fame and Experiential Learning in the context of WWW (people, text, audio - speech and music, visuals-video and images, economies) and Social/Economic networks, Social Network Models - Cellular Automaton and Random Graph Diffusion of Concepts-Memes-Fads- Cybercrimes, Game Theory, BKS Conjecture and Question-Answering, Machine Translation, Algorithmic Graph Theoretic Learning Models, Computational Learning Theory, Software Analytics/Program Analysis/Debug Analytics, Operating System Kernel and Scheduler Analytics, Astronomical Analytics of Celestial Bodies and correlations to Seismic-Atmospheric-Oceanic events, Urban planning analytics, Computational Astrophysics - N-body problem, Media Analytics and Advertisement Analytics, Preferential Attachment, Brand Loyalty and Business Intelligence, People Analytics/HR Analytics, Sports Analytics, Handwriting and Face Recognition for unique identification, Fame/Merit Equilibrium (Welfare Functions, Flow Market Equilibrium and  Convex-Concave Programming in Algorithmic Economics applied to Fame-Merit) and Economic Merit(Intrinsic pricing),Cryptocurrencies and Money Trail (EventNet Graph),Optimal Denomination and Money Changing - Coin Problem,Mechanism Design, Time series analysis (economic and weather forecasts), Neural Networks and Deep Learning, Quantum mechanics and Intrinsic Fitness/Merit(Bose- Einstein condensation in networks), Locality Sensitive Hashing and Separate Chaining Hash tables, Multiple Agent Resource Allocation, Integer Partitions(additive and multiplicative), Set Partitions, Space filling/Lagrangian Four Square Theorem Tiling/Circle Packing, Exact Cover, Random Closed Packing, Number Theory, Quadratic and Linear Programming, Cellular Automata, Satisfiability (Least Square SAT Solvers and QBFSAT), Random restrictions and Hastad Switching Lemma, Classical NC-PRAM-BSP (k-mergesort, segment tree, wavelet tree, ray shooting queries, planar point location, sorting networks,local search of rasterized hyperbolic segment arithmetic progressions), Randomized NC and Quantum NC Computational Geometric Integer Factoring, Rasterization of Algebraic Curves, Algebraic Geometry, Knot Theory, Topology and Connections amongst them - (most recent draft updates to all publications previously and earlier drafts below - in text format - nonlinear theoretical writeups interspersed between NeuronRain code commits in SourceForge, GitLab and GitHub - links to relevant feature implementations and theory drafts in design notes of NeuronRain repositories - AstroInfer,USBmd,VIRGO,KingCobra,GRAFIT,Krishna_iResearch_Doxygen_Docs,Acadpdrafts):**
+Complexity Theoretic Analysis of Non-majority and Majority Social Choice, Majority Voting Boolean Composition Circuit and KRW Conjecture, P versus NP, ABC Conjecture, Four color Theorem, Zorn Lemma, Axiom of Choice (AOC), XOR Lemma and Hardness Amplification, Circuit Lowerbounds, Pseudorandomness(generators and extractors), Goodness of Voting and Margulis-Russo Threshold/Condorcet Jury Theorem (and its recent versions by [Black], [Ladha]), Theoretical Electronic Voting Machines and Pre-poll - Post-poll Analytics, Vowelless Syllable Boundary Text Compression and Compressed Sensing, Computational Chaos, Polynomial Reconstruction Problem, Complement Functions - Complementary Sets and their Function Representation(e.g Beatty Functions), Combinatorics (Ramsey coloring of sequences), PAC Learning, Prime-Composite complementation and pattern in primes, Goldbach Conjecture, Arithmetic Progressions, Diophantine Analysis and Representation, Riemann Zeta Function, Hypergeometric Functions, Clouds - Logical time and causality(EventNet), Formal Languages (Turing degrees, Embedding in vector space, Lambda Calculus, Category Theory, Logic) and learning lambda expressions from Natural Language Text, Cognitive Psychology - Grounded Cognition and ThoughtNet Evocation, Partial order intrinsic merit rankings and Galois connections, Graph theoretic/Computational Neurolinguistic/Question-Answering Interview Intrinsic Merit/Fitness/Fame and Experiential Learning in the context of WWW (people, text, audio - speech and music, visuals-video and images, economies) and Social/Economic networks, Social Network Models - Cellular Automaton and Random Graph Diffusion of Concepts-Memes-Fads- Cybercrimes, Game Theory, BKS Conjecture and Question-Answering, Machine Translation, Algorithmic Graph Theoretic Learning Models, Computational Learning Theory, Software Analytics/Program Analysis/Debug Analytics, Operating System Kernel and Scheduler Analytics, Astronomical Analytics of Celestial Bodies and correlations to Seismic-Atmospheric-Oceanic events, Urban planning analytics, Computational Astrophysics - N-body problem, Media Analytics and Advertisement Analytics, Preferential Attachment, Brand Loyalty and Business Intelligence, People Analytics/HR Analytics, Sports Analytics, Handwriting and Face Recognition for unique identification, Fame/Merit Equilibrium (Welfare Functions, Flow Market Equilibrium and  Convex-Concave Programming in Algorithmic Economics applied to Fame-Merit) and Economic Merit(Intrinsic pricing),Cryptocurrencies and Money Trail (EventNet Graph),Optimal Denomination and Money Changing - Coin Problem,Mechanism Design, Time series analysis (economic and weather forecasts), Neural Networks and Deep Learning, Quantum mechanics and Intrinsic Fitness/Merit(Bose- Einstein condensation in networks), Locality Sensitive Hashing and Separate Chaining Hash tables, Multiple Agent Resource Allocation, Integer Partitions(additive and multiplicative), Set Partitions, Space filling/Lagrangian Four Square Theorem Tiling/Circle Packing, Exact Cover, Random Closed Packing, Number Theory, Quadratic and Linear Programming, Cellular Automata, Satisfiability (Least Square SAT Solvers and QBFSAT), Random restrictions and Hastad Switching Lemma, Classical NC-PRAM-BSP (k-mergesort, segment tree, wavelet tree, ray shooting queries, planar point location, sorting networks,local search of rasterized hyperbolic segment arithmetic progressions), Randomized NC and Quantum NC Computational Geometric Integer Factoring, Rasterization of Algebraic Curves, Algebraic Geometry, Knot Theory, Topology and Connections amongst them - (most recent draft updates to all publications previously and earlier drafts below - in text format - nonlinear theoretical writeups interspersed between NeuronRain code commits in SourceForge, GitLab and GitHub - links to relevant feature implementations and theory drafts in design notes of NeuronRain repositories - AstroInfer,USBmd,VIRGO,KingCobra,GRAFIT,Krishna_iResearch_Doxygen_Docs,Acadpdrafts):
 
 Krishna_iResearch_DoxygenDocs  (GitHub) - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/index.rst
 
@@ -146,7 +146,8 @@ Krishna_iResearch_DoxygenDocs (SourceForge) - https://sourceforge.net/u/ka_shri
 Earlier Publication Drafts (2012 - present) - unaffiliated private theoretical research - unguided and unreviewed
 -----------------------------------------------------------------------------------------------------------------
 
-**Earlier Publication Drafts (PDF):**
+Earlier Publication Drafts (PDF):
+---------------------------------
 
 Integer Partitions and Hash functions  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/IntegerPartitionAndHashFunctions.pdf (in Tex) - 2012
 
@@ -154,7 +155,8 @@ Interview Algorithm is in IP=PSPACE - https://github.com/shrinivaasanka/Kri
 
 Few Non­trivial Questions and Shell Turing Machines (in Tex) - 2012 - /https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/UndecidabilityOfFewNonTrivialQuestions.pdf
 
-**Complexity aspects of Non­majority and Majority Social Choice, Hash Functions, Integer Partitions, Graph theoretic Document summarization etc.,:**
+Complexity aspects of Non­majority and Majority Social Choice, Hash Functions, Integer Partitions, Graph theoretic Document summarization etc.,:
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Arrow’s Theorem, Circuit For Democracy and Pseudorandom Choice and P Versus NP (Draft - 17 September 2014 ) - /https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CircuitsForDemocracyAndPseudorandomChoice_and_PVsNP.pdf
 
@@ -172,7 +174,8 @@ In­depth Analysis of a Variant of Majority Voting with relation to Z
 
 In­depth Analysis of a Variant of Majority Voting with relation to ZFC - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/IndepthAnalysisOfVariantOfMajorityVotingwithZFAOC.pdf (old version -­8 March 2013)
 
-**Parallel PRG and Space Filling:**
+Parallel PRG and Space Filling:
+-------------------------------
 
 A Chaos theoretic Parallel Pseudorandom generator in RNC For Majority Voting and Pseudorandom Choice - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf/ChaoticPRG.pdf
 
@@ -180,7 +183,8 @@ Analysis of a Randomized Space Filling Algorithm and its Linear Progra
 
 Analysis of a Randomized Space Filling Algorithm and its Linear Program Formulation (previous version) - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/Analysis%20of%20a%20Randomized%20Space%20Filling%20Algorithm%20and%20its%20Linear%20Program%20Formulation.pdf
 
-**Discrete Hyperbolic Factorization -­ previous versions:**
+Discrete Hyperbolic Factorization -­ previous versions:
+-------------------------------------------------------
 
 Discrete Hyperbolic Polylogarithmic Sieve For Integer Factorization - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization.pdf (Version 1)
 
@@ -196,13 +200,15 @@ Informal Notes on Derivation of Upperbound for Discrete Hyperbolic Fact
 
 Discrete Hyperbolic Polylogarithmic Sieve For Integer Factorization ­using Rectangular Binary (or) Interpolation Search applying Stirling Formula (Version 14 -­20 September 2013) - http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_rectangular_interpolation_search_and_StirlingFormula_Upperbound.pdf/download
 
-**Discrete Hyperbolic Factorization -­ Parallel RAM algorithm:**
+Discrete Hyperbolic Factorization -­ Parallel RAM algorithm:
+------------------------------------------------------------
 
 An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model (20 November 2013)  http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.pdf/download> and AsFer PRAM implementation design notes with tile id(s) (21 November 2013) - http://sourceforge.net/p/asfer/code/HEAD/tree/ImplementationDesignNotesForDiscreteHyperbolicFactorizationInPRAM.jpg
 
 An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model  updated draft with PRAM to NC reduction and input size details and references (25 September 2014) - http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound_updateddraft.pdf/download
 
-**Miscellaneous Informal Notes related to above drafts (Handwritten) (Note: these are not in any structured format and might have typos and errors)**
+Miscellaneous Informal Notes related to above drafts (Handwritten) (Note: these are not in any structured format and might have typos and errors)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Implication Graphs, Error probability of Majority Voting and P Versus NP Question - http://sourceforge.net/projects/acadpdrafts/files/ImplicationGraphsPGoodEquationAndPNotEqualToNPQuestion_excerpts.pdf/download
 
@@ -220,7 +226,8 @@ Riemann Zeta Function, Ramanujan Graphs and Ihara Zeta Function - https:
 
 Miscellaneous notes on Krishna iResearch Open Source products design, Democracy Circuit, Complement Function circuit and Parallel RAM to NC reduction for ANSV algorithm in Discrete Hyperbolic Factorization  (6 January 2015) - http://sourceforge.net/p/asfer/code/568/tree/python-src/ComplFunction_DHF_PVsNP_Misc_Notes.pdf
 
-**Earlier Publication Drafts (TeX):**
+Earlier Publication Drafts (TeX):
+----------------------------------
 
 Arrow’s Theorem, Circuit For Democracy and Pseudorandom Choice and P Versus NP (Draft -­17 September 2014 ) - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CircuitsForDemocracyAndPseudorandomChoice_and_PVsNP.tex
 
@@ -238,13 +245,15 @@ In­depth Analysis of a Variant of Majority Voting with relation to Z
 
 In­depth Analysis of a Variant of Majority Voting with relation to ZFC - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/IndepthAnalysisOfVariantOfMajorityVotingwithZFAOC.tex (old version - 8 March 2013)
 
-**Parallel PRG and Space Filling:**
+Parallel PRG and Space Filling:
+-------------------------------
 
 A Chaos theoretic Parallel Pseudorandom generator in RNC For Majority Voting and Pseudorandom Choice - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/ChaoticPRG.tex
 
 Analysis of a Randomized Space Filling Algorithm and its Linear Program Formulation - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/Analysis%20of%20a%20Randomized%20Space%20Filling%20Algorithm%20and%20its%20Linear%20Program%20Formulation.tex
 
-**Discrete Hyperbolic Factorization -­previous versions:**
+Discrete Hyperbolic Factorization -­previous versions:
+------------------------------------------------------
 
 Discrete Hyperbolic Polylogarithmic Sieve For Integer Factorization - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization.tex (Version 1)
 
@@ -258,25 +267,29 @@ Discrete Hyperbolic Polylogarithmic Sieve For Integer Factorization ­ u
 
 Discrete Hyperbolic Polylogarithmic Sieve For Integer Factorization ­ using Rectangular Binary (or) Interpolation Search applying Stirling Formula (20 September 2013) - http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_rectangular_interpolation_search_and_StirlingFormula_Upperbound.tex/download
 
-**Discrete Hyperbolic Factorization - Parallel RAM algorithm:**
+Discrete Hyperbolic Factorization - Parallel RAM algorithm:
+-----------------------------------------------------------
 
 An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model (20 November 2013) - http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.tex/download
 
 An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model ­ updated draft with PRAM to NC reduction and input size details and references (25 September 2014) - http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound_updateddraft.tex/download
 
-**Blogs**
+Blogs
+-----
 
 HAMSA - https://kuja27.blogspot.in/ (Audio-Visuals and Course material on Computer Science, Machine Learning etc., - complements and contains links to large visuals used within NeuronRain repositories)
 
 VARAHAMIHIRA - https://varahamihira.wordpress.com/ (Astronomy, Sanskrit etc.,)
 
-**Alumni Profiles**
+Alumni Profiles
+----------------
 
 CMI Alumnus page - https://www.cmi.ac.in/people/alumni-profile.php?id=shrinivas (2010­)
 CMI Research Scholar Alumnus Page - http://www.cmi.ac.in/people/fac-profile.php?id=shrinivas> (2010­2011) [ no JRF/academic or industry affiliation at present ­ doing private research]
 PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srinivasan-kannan-1
 
-**Personal Memorabilia and selected photos**
+Personal Memorabilia and selected photos
+---------------------------------------
 
 Passport (May 2015) - http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download
 
