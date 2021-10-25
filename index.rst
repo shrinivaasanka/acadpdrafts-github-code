@@ -1,4 +1,13 @@
+.. image :: index-1_1.png
+.. image :: index-1_2.png
+.. image :: index-1_3.png
+.. image :: index-1_4.png
+.. image :: index-1_5.png
+.. image :: index-1_6.png
+
+
 				                        K.Srinivasan
+							-------------
 		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
 
 Shortest CV - LatexPDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf
