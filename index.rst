@@ -1,3 +1,8 @@
+
+				                        K.Srinivasan
+							-------------
+		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
+
 .. image :: index-1_1.png
 .. image :: index-1_2.png
 .. image :: index-1_3.png
@@ -5,10 +10,8 @@
 .. image :: index-1_5.png
 .. image :: index-1_6.png
 
-
-				                        K.Srinivasan
-							-------------
-		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
+CV and NeuronRain Features:
+---------------------------
 
 Shortest CV - LatexPDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf
 Longest CV   - PDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.pdf
@@ -21,6 +24,7 @@ Profile (GitHub) - https://github.com/shrinivaasanka
 Profile (GitLab) - https://gitlab.com/shrinivaasanka
 
 NeuronRain ­ a new Machine Learning, Cloud and Messaging augmented OS:
+----------------------------------------------------------------------
 
 NeuronRain Research -­ SourceForge Repositories ­for astronomy datasets and academic research:
 ---------------------------------------------------------------------------------------------
@@ -293,8 +297,10 @@ VARAHAMIHIRA - https://varahamihira.wordpress.com/ (Astronomy, Sanskrit etc.,
 Alumni Profiles
 ----------------
 
-CMI Alumnus page - https://www.cmi.ac.in/people/alumni-profile.php?id=shrinivas (2010­)
-CMI Research Scholar Alumnus Page - http://www.cmi.ac.in/people/fac-profile.php?id=shrinivas> (2010­2011) [ no JRF/academic or industry affiliation at present ­ doing private research]
+CMI Alumnus page - https://www.cmi.ac.in/people/alumni-profile.php?id=shrinivas (2010)
+
+CMI Research Scholar Alumnus Page - http://www.cmi.ac.in/people/fac-profile.php?id=shrinivas (2010-2011) [ no JRF/academic or industry affiliation at present ­ doing private research]
+
 PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srinivasan-kannan-1
 
 Personal Memorabilia and selected photos
