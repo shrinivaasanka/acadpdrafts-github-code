@@ -227,7 +227,7 @@ In­depth Analysis of a Variant of Majority Voting with relation to Z
 Parallel PRG and Space Filling:
 -------------------------------
 
-A Chaos theoretic Parallel Pseudorandom generator in RNC For Majority Voting and Pseudorandom Choice - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf/ChaoticPRG.pdf
+A Chaos theoretic Parallel Pseudorandom generator in RNC For Majority Voting and Pseudorandom Choice - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/ChaoticPRG.pdf
 
 Analysis of a Randomized Space Filling Algorithm and its Linear Program Formulation - updated draft additions for Cellular Automaton Algorithm, NC circuit construction for it - http://sourceforge.net/p/asfer/code/HEAD/tree/asfer-docs/AstroInferDesign.txt
 
@@ -253,7 +253,7 @@ Discrete Hyperbolic Polylogarithmic Sieve For Integer Factorization ­usi
 Discrete Hyperbolic Factorization -­ Parallel RAM algorithm:
 ------------------------------------------------------------
 
-An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model (20 November 2013)  http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.pdf/download> and AsFer PRAM implementation design notes with tile id(s) (21 November 2013) - http://sourceforge.net/p/asfer/code/HEAD/tree/ImplementationDesignNotesForDiscreteHyperbolicFactorizationInPRAM.jpg
+An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model (20 November 2013)  http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.pdf/download> and AsFer PRAM implementation design notes with tile id(s) (21 November 2013) - https://sourceforge.net/p/asfer/code/HEAD/tree/asfer-docs/ImplementationDesignNotesForDiscreteHyperbolicFactorizationInPRAM.jpg 
 
 An NC algorithm and some Sequential Search Algorithms for Discrete Hyperbolic Polylogarithmic Sieve For Factorization using Binary or Interpolation Search with Stirling Formula and Logarithmic Sorted Tile Merge in PRAM model  updated draft with PRAM to NC reduction and input size details and references (25 September 2014) - http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound_updateddraft.pdf/download
 
