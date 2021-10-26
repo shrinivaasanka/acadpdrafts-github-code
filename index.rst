@@ -1,20 +1,20 @@
 .. image :: index-1_1.png
-:align :center
+	:align :center
 .. image :: index-1_2.png
-:align :center
+	:align :center
 .. image :: index-1_3.png
-:align :center
+	:align :center
 .. image :: index-1_4.png
-:align :center
+	:align :center
 .. image :: index-1_5.png
-:align :center
+	:align :center
 .. image :: index-1_6.png
-:align :center
+	:align :center
 
-							#############
+####################################################################################################################
 				                        K.Srinivasan
-							#############
 		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
+####################################################################################################################
 
 CV and NeuronRain Features:
 ---------------------------
@@ -312,6 +312,12 @@ PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srin
 Personal Memorabilia and selected photos
 ---------------------------------------
 
+Chennai - 2016 - ECR - Kovalam Beach and Thiruvidanthai - https://twitter.com/ka_shrinivaasan/status/893809168284475392
+
+Chennai - 2014 - Thiruneermalai - https://twitter.com/ka_shrinivaasan/status/893808566116548608
+
+Chennai Metro (2015), Madurai (2009), Coimbatore (2009) - https://twitter.com/ka_shrinivaasan/status/893804443459665920 
+
 Passport (May 2015) - http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download
 
 At Chennai Mahabalipuram - September 2012 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/home/DSC00388.JPG
@@ -335,13 +341,3 @@ Past photos  1 - https://github.com/shrinivaasanka/Krishna_iResearch_Doxygen
 Past photos  2 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/NewPassportApplication_OldPassportVisa2.jpg (2003)
 
 STATUTORY DISCLAIMER: This website contains publications and articles devoted to multi-disciplinary fundamental research only. Any misinterpretation with malafide intent or defacing/hacking or any other form of cybercrime on contents of this website will be reported and severely dealt with as the case may be. Earlier such incidents have already been reported few years ago - https://docs.google.com/file/d/0B8TCub8qrCY8STUxVU1Ja0xuaXM/edit. Copyright: KaShrinivaasan (alias) Shrinivas Kannan (alias) Srinivasan Kannan
-
---------------
-
-.. |image0| image:: index-1_1.png
-.. |image1| image:: index-1_2.png
-.. |image2| image:: index-1_3.png
-.. |image3| image:: index-1_4.png
-.. |image4| image:: index-1_5.png
-.. |image5| image:: index-1_6.png
-
