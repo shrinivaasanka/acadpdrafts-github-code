@@ -1,9 +1,24 @@
 
-.. figure :: index-1_1.png
+.. image :: index-1_1.png
+   :height: 100px
+   :width: 200px
+   :scale: 50%
+   :alt: alternate text
+   :align: middle 
 
-.. figure :: index-1_2.png
+.. image :: index-1_2.png
+   :height: 100px
+   :width: 200px
+   :scale: 50%
+   :alt: alternate text
+   :align: middle 
 
-.. figure :: index-1_3.png
+.. image :: index-1_3.png
+   :height: 100px
+   :width: 200px
+   :scale: 50%
+   :alt: alternate text
+   :align: middle 
 
 ####################################################################################################################
 				                        K.Srinivasan
