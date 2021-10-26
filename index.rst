@@ -4,21 +4,21 @@
    :width: 200px
    :scale: 50%
    :alt: alternate text
-   :align: middle 
+   :align: center 
 
 .. image :: index-1_2.png
    :height: 100px
    :width: 200px
    :scale: 50%
    :alt: alternate text
-   :align: middle 
+   :align: center 
 
 .. image :: index-1_3.png
    :height: 100px
    :width: 200px
    :scale: 50%
    :alt: alternate text
-   :align: middle 
+   :align: center 
 
 ####################################################################################################################
 				                        K.Srinivasan
