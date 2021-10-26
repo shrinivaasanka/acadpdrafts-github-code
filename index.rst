@@ -1,21 +1,21 @@
 
 .. image :: index-1_1.png
    :height: 400px
-   :width: 500px
+   :width: 800px
    :scale: 100%
    :alt: alternate text
    :align: center 
 
 .. image :: index-1_2.png
    :height: 400px
-   :width: 500px
+   :width: 800px
    :scale: 100%
    :alt: alternate text
    :align: center 
 
 .. image :: index-1_3.png
    :height: 400px
-   :width: 500px
+   :width: 800px
    :scale: 100%
    :alt: alternate text
    :align: center 
