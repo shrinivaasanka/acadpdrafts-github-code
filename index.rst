@@ -1,29 +1,29 @@
 
+####################################################################################################################
+				                        K.Srinivasan
+		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
+####################################################################################################################
+
 .. image :: index-1_1.png
-   :height: 200px
-   :width: 500px
+   :height: 100px
+   :width: 400px
    :scale: 100%
    :alt: alternate text
    :align: center 
 
 .. image :: index-1_2.png
-   :height: 200px
-   :width: 500px
+   :height: 100px
+   :width: 400px
    :scale: 100%
    :alt: alternate text
    :align: center 
 
 .. image :: index-1_3.png
-   :height: 200px
-   :width: 500px
+   :height: 100px
+   :width: 400px
    :scale: 100%
    :alt: alternate text
    :align: center 
-
-####################################################################################################################
-				                        K.Srinivasan
-		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
-####################################################################################################################
 
 CV and NeuronRain Features:
 ---------------------------
