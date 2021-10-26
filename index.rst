@@ -1,20 +1,14 @@
-.. image :: index-1_1.png
-	:align :center
-.. image :: index-1_2.png
-	:align :center
-.. image :: index-1_3.png
-	:align :center
-.. image :: index-1_4.png
-	:align :center
-.. image :: index-1_5.png
-	:align :center
-.. image :: index-1_6.png
-	:align :center
-
 ####################################################################################################################
 				                        K.Srinivasan
 		(also spelt as: Srinivasan Kannan,  Shrinivaasan Kannan, Shrinivas Kannan)
 ####################################################################################################################
+
+.. image :: index-1_1.png
+
+.. image :: index-1_2.png
+
+.. image :: index-1_3.png
+
 
 CV and NeuronRain Features:
 ---------------------------
