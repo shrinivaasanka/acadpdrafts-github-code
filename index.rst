@@ -56,7 +56,7 @@ USBmd64 - https://sourceforge.net/p/usb-md64/­-  USB driver kernel module�
 ASFER -­ AStroinFER -  http://asfer.sourceforge.net/ - BigData Analytics and Machine Learning Software for
 Large Data Sets (at present implemented for Astronomical Datasets)
 
-KINGCOBRA -­https://sourceforge.net/projects/kcobra/ - Linux kernelspace messaging with miscellaneous applications based on 32­bit 4.1.5 linux kernel
+KINGCOBRA - https://sourceforge.net/projects/kcobra/ - Linux kernelspace messaging with miscellaneous applications based on 32­bit 4.1.5 linux kernel
 
 KINGCOBRA64 - https://sourceforge.net/p/kcobra64/ - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
 
@@ -123,17 +123,19 @@ Free online course materials
 -----------------------------
 
 GRAFIT Open Learning ­ [GitHub]  - https://github.com/shrinivaasanka/Grafit
+
 GRAFIT Open Learning ­ [GitLab]  - https://gitlab.com/shrinivaasanka/Grafit
+
 GRAFIT Open Learning ­ [SourceForge] - https://sourceforge.net/u/userid-769929/Grafit/ci/master/tree/
 
 Virtual GitHub Classroom for GRAFIT course material repository
 --------------------------------------------------------------
 
 https://classroom.github.com/classrooms/8086998-https-github-com-shrinivaasanka-grafit
-https://classroom.github.com/classrooms/8086998-https-github-com-shrinivaasanka-grafit
 
 GRAFIT course material in Moodle
 --------------------------------
+
 https://moodle.org/pluginfile.php/4765687/user/private/Grafit-master.zip?forcedownload=1
 
 BRIHASPATHI - Private Virtual Classrooms
@@ -145,16 +147,20 @@ Research statements
 -------------------
 
 Research statement 1 (2010)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/ResearchStatement2.pdf
+
 Research statement 2  with some proof sketches (2011)  (Algorithm for Timeout  implemented on Global Decisioning Platform 3.0 -­Copyright: Global Analytics)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/PhDThesisProposal.pdf
+
 Research statement 3 ­with some proof sketches (2014)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/Research_Writeup.pdf
+
 Research Statement 4 - Presentation to BITS Pilani (6 June 2018) - ppt -  https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/BITSPilaniAV.pdf
+
 Research Statement 5 (2018) - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//ResearchAreas.pdf
 
 Patents
 -------
 Team Patents - Sun Microsystems - 2000-2005 -  http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&Query=%22kannan+srinivasan%22+AND+%22sun+microsystems%22
 
-Disclosure ­ Patent Pending (Copyright: Sun Microsystems - 2002 - Reference Number: P8490) - Survival Index Based Transaction Timeout Manager (Java PoC implemented on SunOne­ iPlanet Application Server 6.5 J2EE­JTS Transaction Manager -­ now GlassFish - https://github.com/javaee/glassfish/tree/master/appserver)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/SurvivalIndexBasedTxnTimeoutManager.pdf
+Disclosure - Patent Pending (Copyright: Sun Microsystems - 2002 - Reference Number: P8490) - Survival Index Based Transaction Timeout Manager (Java PoC implemented on SunOne­ iPlanet Application Server 6.5 J2EE­JTS Transaction Manager -­ now GlassFish - https://github.com/javaee/glassfish/tree/master/appserver)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/SurvivalIndexBasedTxnTimeoutManager.pdf
 
 Publications (2008­- 2011) - (CMI-IMSc-IIT, Chennai) guided and reviewed (Google Scholar) - http://scholar.google.co.in/citations?user=eLZY7CIAAAAJ&hl=en
 -------------------------------------------------------------------------------------------------------------------------------------------
