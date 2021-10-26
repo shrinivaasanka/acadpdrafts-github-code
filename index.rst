@@ -60,7 +60,7 @@ KINGCOBRA -­https://sourceforge.net/projects/kcobra/ - Linux kernelspace me
 
 KINGCOBRA64 - https://sourceforge.net/p/kcobra64/ - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
 
-NeuronRain Green ­- GitHub and GitLab Repositories for generic datasets on cloud 
+NeuronRain Green ­- GitHub Repositories for generic datasets on cloud 
 ----------------------------------------------------------------------------------
 
 VIRGO - https://github.com/shrinivaasanka/virgo-linux-github-code - VIRtual Generic Os Linux kernel fork­off (kernel modules,system calls etc.,) with cloud and machine learning features (32 bit based on 4.1.5 mainline)
@@ -77,6 +77,24 @@ ASFER -­AStroinFER - https://github.com/shrinivaasanka/asfer-github-code - Big
 KINGCOBRA - https://github.com/shrinivaasanka/kingcobra-github-code - Linux kernelspace messaging with miscellaneous applications based on 32­bit 4.1.5 linux kernel
 
 KINGCOBRA64 - https://github.com/shrinivaasanka/kingcobra64-github-code - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
+
+NeuronRain Antariksh - GitLab Repositories for Drone code 
+-----------------------------------------------------------
+
+VIRGO - https://gitlab.com/shrinivaasanka/virgo-linux-github-code - VIRtual Generic Os Linux kernel fork­off (kernel modules,system calls etc.,) with cloud and machine learning features (32 bit based on 4.1.5 mainline)
+
+VIRGO64 - https://gitlab.com/shrinivaasanka/virgo64-linux-github-code> - 64 bit version of previous VIRGO Linux kernel based on 4.13.3 mainline
+
+USBmd - https://gitlab.com/shrinivaasanka/usb-md-github-code - https://sourceforge.net/projects/usb-md/ - USB driver kernel module for network analytics, debugging etc., based on 32­bit 4.1.5 linux kernel
+
+USBmd64 - https://gitlab.com/shrinivaasanka/usb-md64-github-code -  USB driver kernel module for network analytics, debugging etc., based on
+64­bit 4.13.3 linux kernel
+
+ASFER -­AStroinFER - https://gitlab.com/shrinivaasanka/asfer-github-code - BigData Analytics and Machine Learning Software for Large Data Sets
+
+KINGCOBRA - https://gitlab.com/shrinivaasanka/kingcobra-github-code - Linux kernelspace messaging with miscellaneous applications based on 32­bit 4.1.5 linux kernel
+
+KINGCOBRA64 - https://gitlab.com/shrinivaasanka/kingcobra64-github-code - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
 
 NeuronRain Documentation and Licensing
 --------------------------------------
