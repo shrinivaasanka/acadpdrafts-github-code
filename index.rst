@@ -1,15 +1,15 @@
 
 .. image :: index-1_1.png
-	:align :center
-	:width :500
+:align :center
+:width :500
 
 .. image :: index-1_2.png
-	:align :center
-	:width :500
+:align :center
+:width :500
 
 .. image :: index-1_3.png
-	:align :center
-	:width :500
+:align :center
+:width :500
 
 ####################################################################################################################
 				                        K.Srinivasan
