@@ -20,12 +20,9 @@
    :alt: alternate text
    :align: center 
 
-####################################################################################################################
-H1: K.Srinivasan
-####################################################################################################################
 
-CV and NeuronRain Features:
----------------------------
+K.Srinivasan - CV and NeuronRain Features:
+------------------------------------------
 
 Shortest CV - LatexPDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27//CV.pdf
 Longest CV   - PDF - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.pdf
@@ -34,10 +31,12 @@ Longest CV ­ - Text - https://github.com/shrinivaasanka/Krishna_iResearch_D
 Krishna iResearch Open Source Products -­open source research initiative of self  (2003 -­Present) ­
 ----------------------------------------------------------------------------------------------------
 Profile (SourceForge) -  https://sourceforge.net/u/userid-769929/profile/
+
 Profile (GitHub) - https://github.com/shrinivaasanka
+
 Profile (GitLab) - https://gitlab.com/shrinivaasanka
 
-NeuronRain ­ a new Machine Learning, Cloud and Messaging augmented OS:
+NeuronRain -­a new Machine Learning, Cloud and Messaging augmented OS:
 ----------------------------------------------------------------------
 
 NeuronRain Research -­ SourceForge Repositories ­for astronomy datasets and academic research:
