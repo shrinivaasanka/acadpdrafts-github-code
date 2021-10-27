@@ -363,11 +363,11 @@ Sun Microsystems group photo 1 (2000) - Bengaluru IEC DivyaSree Chambers - 
 
 Sun Microsystems 2 (2004) - Bengaluru IEC DivyaSree Chambers - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/SunMicrosystems1_30July2004.jpg
 
-Sun Microsystems 3 (2004) - Bengaluru IEC DivyaSree Chambers - https://sites.google.com/site/kuja27/SunMicrosystems2_30July2004.jpg
+Sun Microsystems 3 (2004) - Bengaluru IEC DivyaSree Chambers - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/SunMicrosystems2_30July2004.jpg
 
 COBRA (a not­so­naive cloud precursor implemented during BE in 1999 on CORBA) - https://sourceforge.net/projects/acadpdrafts/files/Excerpts_Of_PSG_BE_FinalProject_COBRA_done_in_1999.pdf/download
 
-PSG Tech Photos - Coimbatore (1995­- 1999) - (Deleted) - http://www.angelfire.com/id/95cse/album.html - (Some photos from this defunct website are used within NeuronRain repositories for image analytics - tribute to classmate late Balaji)
+PSG Tech Photos - Coimbatore (1995­- 1999) - (Deleted) - http://www.angelfire.com/id/95cse/album.html - (Some photos from this defunct website are used within NeuronRain repositories for image analytics - tribute to classmate late Balaji) - https://github.com/shrinivaasanka/asfer-github-code/blob/master/python-src/image_pattern_mining/ImageNet/testlogs/ExampleImage_1.jpg , https://github.com/shrinivaasanka/Grafit/blob/master/course_material/NeuronRain/LinuxKernelAndCloud/code/testlogs/DWMExample1.jpg , https://github.com/shrinivaasanka/Grafit/blob/master/course_material/NeuronRain/LinuxKernelAndCloud/code/testlogs/DWMExample2.jpg
 
 Past photos  1 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/NewPassportApplication_OldPassportVisa1.jpg (2003)
 
