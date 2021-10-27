@@ -99,7 +99,7 @@ KINGCOBRA64 - https://gitlab.com/shrinivaasanka/kingcobra64-github-code - Linu
 NeuronRain Documentation and Licensing
 --------------------------------------
 
-Krishna_iResearch_DoxygenDocs  (GitHub)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs> ( NeuronRain ­ Architecture
+Krishna_iResearch_DoxygenDocs  (GitHub)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs ( NeuronRain ­ Architecture
 Diagrams 1 , NeuronRain ­Architecture Diagrams 2 )  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/Krishna_iResearch_opensourceproducts_archdiagram.pdf
 
 Krishna_iResearch_DoxygenDocs (GitLab)  - https://gitlab.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs
@@ -342,6 +342,8 @@ PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srin
 
 Personal Memorabilia and selected photos
 ---------------------------------------
+
+Chennai-Sholinghur Hills, Trichy-Srirangam, Namakkal Fort - 2018 - https://twitter.com/ka_shrinivaasan/status/1453391628232581120
 
 Chennai - 2016 - ECR - Kovalam Beach and Thiruvidanthai - https://twitter.com/ka_shrinivaasan/status/893809168284475392
 
