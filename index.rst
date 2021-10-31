@@ -340,18 +340,24 @@ CMI Research Scholar Alumnus Page - http://www.cmi.ac.in/people/fac-profile.
 
 PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srinivasan-kannan-1
 
-Personal Memorabilia and selected photos
----------------------------------------
+Personal Memorabilia and selected photos (archaeology, ancient architecture, nature)
+------------------------------------------------------------------------------------
 
-Chennai-Sholinghur Hills, Trichy-Srirangam, Namakkal Fort - 2018 - https://twitter.com/ka_shrinivaasan/status/1453391628232581120
+Chennai - Mylapore, Triplicane, Tiruvallur - 2019 - https://twitter.com/ka_shrinivaasan/status/1454709513878052864
+
+Chennai- 2018 - Sholinghur Hills, Trichy-Srirangam, Namakkal Fort - https://twitter.com/ka_shrinivaasan/status/1453391628232581120
+
+Chennai - Kanchipuram - Hastigiri - 2016 - https://twitter.com/ka_shrinivaasan/status/1454708771603693573
 
 Chennai - 2016 - ECR - Kovalam Beach and Thiruvidanthai - https://twitter.com/ka_shrinivaasan/status/893809168284475392
 
-Chennai - 2014 - Thiruneermalai - https://twitter.com/ka_shrinivaasan/status/893808566116548608
+Kumbakonam - 2015 - Shri Sharngapani Swamy Temple - https://twitter.com/ka_shrinivaasan/status/1454708262390013953 
 
 Chennai Metro (2015), Madurai (2009), Coimbatore (2009) - https://twitter.com/ka_shrinivaasan/status/893804443459665920 
 
 Passport (May 2015) - http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download
+
+Chennai - 2014 - Thiruneermalai - https://twitter.com/ka_shrinivaasan/status/893808566116548608
 
 At Chennai Mahabalipuram - September 2012 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/home/DSC00388.JPG
 
