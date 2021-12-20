@@ -345,9 +345,15 @@ Personal Memorabilia and selected photos (archaeology, ancient architecture,
 
 Chennai - Mylapore, Triplicane, Tiruvallur - 2019 - https://twitter.com/ka_shrinivaasan/status/1454709513878052864
 
-Chennai- 2018 - Sholinghur Hills, Trichy-Srirangam, Namakkal Fort - https://twitter.com/ka_shrinivaasan/status/1453391628232581120
+Chennai - Siruseri - SIPCOT - TCS Tower - 2019 - https://twitter.com/ka_shrinivaasan/status/1472872731137826816
+
+Kumbakonam - Cauvery - 2019 - https://twitter.com/ka_shrinivaasan/status/1472870954019733505
+
+Chennai - 2018 - Sholinghur Hills, Trichy-Srirangam, Namakkal Fort - https://twitter.com/ka_shrinivaasan/status/1453391628232581120
 
 Chennai - Kanchipuram - Hastigiri - 2016 - https://twitter.com/ka_shrinivaasan/status/1454708771603693573
+
+Chennai - Tiruvetriyur - 2016 - https://twitter.com/ka_shrinivaasan/status/1472871425732136970
 
 Chennai - 2016 - ECR - Kovalam Beach and Thiruvidanthai - https://twitter.com/ka_shrinivaasan/status/893809168284475392
 
@@ -373,7 +379,9 @@ Sun Microsystems 3 (2004) - Bengaluru IEC DivyaSree Chambers - https://github
 
 COBRA (a not­so­naive cloud precursor implemented during BE in 1999 on CORBA) - https://sourceforge.net/projects/acadpdrafts/files/Excerpts_Of_PSG_BE_FinalProject_COBRA_done_in_1999.pdf/download
 
-PSG Tech Photos - Coimbatore (1995­- 1999) - (Deleted) - http://www.angelfire.com/id/95cse/album.html - (Some photos from this defunct website are used within NeuronRain repositories for image analytics - tribute to classmate late Balaji) - https://github.com/shrinivaasanka/asfer-github-code/blob/master/python-src/image_pattern_mining/ImageNet/testlogs/ExampleImage_1.jpg , https://github.com/shrinivaasanka/Grafit/blob/master/course_material/NeuronRain/LinuxKernelAndCloud/code/testlogs/DWMExample1.jpg , https://github.com/shrinivaasanka/Grafit/blob/master/course_material/NeuronRain/LinuxKernelAndCloud/code/testlogs/DWMExample2.jpg
+PSG Tech 1995 CSE Reunion - Chennai - 2016 - https://twitter.com/ka_shrinivaasan/status/1472872124754939907
+
+PSG Tech Photos - 1995 batch of Computer Science and Engg - Coimbatore (1995­- 1999) - (Deleted) - http://www.angelfire.com/id/95cse/album.html - (Some photos from this defunct website are used within NeuronRain repositories for image analytics - tribute to classmate late Balaji) - https://github.com/shrinivaasanka/asfer-github-code/blob/master/python-src/image_pattern_mining/ImageNet/testlogs/ExampleImage_1.jpg , https://github.com/shrinivaasanka/Grafit/blob/master/course_material/NeuronRain/LinuxKernelAndCloud/code/testlogs/DWMExample1.jpg , https://github.com/shrinivaasanka/Grafit/blob/master/course_material/NeuronRain/LinuxKernelAndCloud/code/testlogs/DWMExample2.jpg
 
 Past photos  1 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/NewPassportApplication_OldPassportVisa1.jpg (2003)
 
