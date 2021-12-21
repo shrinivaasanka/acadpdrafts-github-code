@@ -42,7 +42,7 @@ NeuronRain -­a new Machine Learning, Cloud and Messaging augmented OS:
 NeuronRain Research -­ SourceForge Repositories ­for astronomy datasets and academic research:
 ---------------------------------------------------------------------------------------------
 
-ACADPDRAFTS -­Publications, Drafts - http://sourceforge.net/projects/acadpdrafts/files/?source=navbar
+ACADPDRAFTS -­Publications, Drafts - https://sourceforge.net/projects/acadpdrafts/ and http://sourceforge.net/projects/acadpdrafts/files/?source=navbar
 
 VIRGO -­ VIRtual Generic Os ­Linux kernel fork­off (kernel modules,system calls etc.,) with cloud and machine learning features (32 bit based on 4.1.5 mainline) - https://sourceforge.net/projects/virgo-linux/
 
@@ -63,6 +63,8 @@ KINGCOBRA64 - https://sourceforge.net/p/kcobra64/ - Linux kernelspace messag
 NeuronRain Green ­- GitHub Repositories for generic datasets on cloud 
 ----------------------------------------------------------------------------------
 
+ACADPDRAFTS - Publications, Drafts - https://github.com/shrinivaasanka/acadpdrafts-github-code
+
 VIRGO - https://github.com/shrinivaasanka/virgo-linux-github-code - VIRtual Generic Os Linux kernel fork­off (kernel modules,system calls etc.,) with cloud and machine learning features (32 bit based on 4.1.5 mainline)
 
 VIRGO64 - https://github.com/shrinivaasanka/virgo64-linux-github-code> - 64 bit version of previous VIRGO Linux kernel based on 4.13.3 mainline
@@ -80,6 +82,8 @@ KINGCOBRA64 - https://github.com/shrinivaasanka/kingcobra64-github-code - Linu
 
 NeuronRain Antariksh - GitLab Repositories for Drone code 
 -----------------------------------------------------------
+
+ACADPDRAFTS - Publications, Drafts - https://gitlab.com/shrinivaasanka/acadpdrafts-github-code
 
 VIRGO - https://gitlab.com/shrinivaasanka/virgo-linux-github-code - VIRtual Generic Os Linux kernel fork­off (kernel modules,system calls etc.,) with cloud and machine learning features (32 bit based on 4.1.5 mainline)
 
@@ -162,8 +166,27 @@ Team Patents - Sun Microsystems - 2000-2005 -  http://patft.uspto.gov/netac
 
 Disclosure - Patent Pending (Copyright: Sun Microsystems - 2002 - Reference Number: P8490) - Survival Index Based Transaction Timeout Manager (Java PoC implemented on SunOne­ iPlanet Application Server 6.5 J2EE­JTS Transaction Manager -­ now GlassFish - https://github.com/javaee/glassfish/tree/master/appserver)  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/SurvivalIndexBasedTxnTimeoutManager.pdf
 
-Publications (2008­- 2011) - (CMI-IMSc-IIT, Chennai) guided and reviewed (Google Scholar) - http://scholar.google.co.in/citations?user=eLZY7CIAAAAJ&hl=en
--------------------------------------------------------------------------------------------------------------------------------------------
+Publications (2008-2011) - Bibliography:
+---------------------------------------
+
+Google Scholar - https://scholar.google.co.in/citations?user=eLZY7CIAAAAJ&hl=en
+
+DBLP - http://dblp.dagstuhl.de/pers/hd/s/Shrinivaasan:Ka=
+
+arXiv - ORCID - https://orcid.org/0000-0003-1822-4697
+
+Microsoft Academic - https://academic.microsoft.com/search?q=ka%20shrinivaasan&qe=%40%40%40Composite(AA.AuN%3D%3D%27ka%20shrinivaasan%27)&f=&orderBy=4&skip=0&take=10
+
+Researchgate - https://www.researchgate.net/profile/Srinivasan_Kannan5
+
+Semantic Scholar - https://www.semanticscholar.org/author/Ka.-Shrinivaasan/1861803
+
+CiteSeerX - https://citeseerx.ist.psu.edu/search?q=Ka.+Shrinivaasan
+
+NASA/ADS - https://ui.adsabs.harvard.edu/search/q=author%3A%22Shrinivaasan%2C%20Ka.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+
+Publication Texts (2008­- 2011) - (CMI-IMSc-IIT, Chennai) guided and reviewed 
+-------------------------------------------------------------------------
 Few Algorithms for Ascertaining Merit Of a Document  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/MScThesis-WriteupReport.pdf
 
 (Master's thesis) arXiv Link to Few Algorithms for Ascertaining Merit of a Document  - http://arxiv.org/abs/1006.4458
@@ -348,6 +371,8 @@ Chennai - Mylapore, Triplicane, Tiruvallur - 2019 - https://twitter.com/ka_shrin
 Chennai - Siruseri - SIPCOT - TCS Tower - 2019 - https://twitter.com/ka_shrinivaasan/status/1472872731137826816
 
 Kumbakonam - Cauvery - 2019 - https://twitter.com/ka_shrinivaasan/status/1472870954019733505
+
+Madurai - Azhagar hills - 2018 - https://twitter.com/ka_shrinivaasan/status/1473313777810612227
 
 Chennai - 2018 - Sholinghur Hills, Trichy-Srirangam, Namakkal Fort - https://twitter.com/ka_shrinivaasan/status/1453391628232581120
 
