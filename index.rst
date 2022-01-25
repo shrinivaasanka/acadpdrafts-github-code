@@ -60,6 +60,11 @@ KINGCOBRA - https://sourceforge.net/projects/kcobra/ - Linux kernelspace mess
 
 KINGCOBRA64 - https://sourceforge.net/p/kcobra64/ - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
 
+GRAFIT - https://sourceforge.net/u/ka_shrinivaasan/Grafit/
+
+Krishna_iResearch_DoxygenDocs - https://sourceforge.net/u/ka_shrinivaasan/Krishna_iResearch_DoxygenDocs/
+
+
 NeuronRain Green ­- GitHub Repositories for generic datasets on cloud 
 ----------------------------------------------------------------------------------
 
@@ -80,6 +85,11 @@ KINGCOBRA - https://github.com/shrinivaasanka/kingcobra-github-code - Linux ke
 
 KINGCOBRA64 - https://github.com/shrinivaasanka/kingcobra64-github-code - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
 
+GRAFIT - https://github.com/shrinivaasanka/Grafit/
+
+Krishna_iResearch_DoxygenDocs - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/
+
+
 NeuronRain Antariksh - GitLab Repositories for Drone code 
 -----------------------------------------------------------
 
@@ -99,6 +109,11 @@ ASFER -­AStroinFER - https://gitlab.com/shrinivaasanka/asfer-github-code - Big
 KINGCOBRA - https://gitlab.com/shrinivaasanka/kingcobra-github-code - Linux kernelspace messaging with miscellaneous applications based on 32­bit 4.1.5 linux kernel
 
 KINGCOBRA64 - https://gitlab.com/shrinivaasanka/kingcobra64-github-code - Linux kernelspace messaging with miscellaneous applications based on 64­bit 4.13.3 linux kernel
+
+GRAFIT - https://gitlab.com/shrinivaasanka/Grafit/
+
+Krishna_iResearch_DoxygenDocs - https://gitlab.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/
+
 
 NeuronRain Documentation and Licensing
 --------------------------------------
@@ -142,10 +157,14 @@ GRAFIT course material in Moodle
 
 https://moodle.org/pluginfile.php/4765687/user/private/Grafit-master.zip?forcedownload=1
 
-BRIHASPATHI - Private Virtual Classrooms
-----------------------------------------
+BRIHASPATHI - Private Virtual Classrooms and JAIMINI Closed Source Private Repositories
+----------------------------------------------------------------------------------------
 
-Private repositories of virtual classrooms for various commercial online courses (BigData, Machine Learning, Topics in Mathematics and Computer Science,...) - https://github.com/Brihaspathi - requires GitHub student logins
+GitHub - Private repositories of virtual classrooms for various commercial online courses (BigData, Machine Learning, Topics in Mathematics and Computer Science,...) and JAIMINI Closed Source Derivative of NeuronRain - https://github.com/Brihaspathi - requires GitHub student logins
+
+SourceForge - https://sourceforge.net/projects/jaimini/
+
+GitLab - https://gitlab.com/shrinivaasanka/jaimini
  
 Research statements
 -------------------
@@ -403,6 +422,8 @@ Sun Microsystems 2 (2004) - Bengaluru IEC DivyaSree Chambers - https://github
 Sun Microsystems 3 (2004) - Bengaluru IEC DivyaSree Chambers - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/SunMicrosystems2_30July2004.jpg
 
 COBRA (a not­so­naive cloud precursor implemented during BE in 1999 on CORBA) - https://sourceforge.net/projects/acadpdrafts/files/Excerpts_Of_PSG_BE_FinalProject_COBRA_done_in_1999.pdf/download
+
+Assorted Montage Video Footages and Images (Drone simulations, Unique ID Profiles and Facial - used in NeuronRain Large Scale Visual Analytics) - https://github.com/shrinivaasanka/asfer-github-code/blob/master/python-src/image_pattern_mining/ImageNet/testlogs/ , https://kuja27.blogspot.in/ 
 
 PSG Tech 1995 CSE Reunion - Chennai - 2016 - https://twitter.com/ka_shrinivaasan/status/1472872124754939907
 
