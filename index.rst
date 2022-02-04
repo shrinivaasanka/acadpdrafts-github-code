@@ -384,8 +384,10 @@ CMI Research Scholar Alumnus Page - http://www.cmi.ac.in/people/fac-profile.
 
 PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srinivasan-kannan-1
 
-Personal Memorabilia and selected photos (archaeology, ancient architecture, nature)
-------------------------------------------------------------------------------------
+Personal Memorabilia and selected visuals (archaeology, architecture, nature, wild life)
+-----------------------------------------------------------------------------------------------
+
+Kumbakonam - 2022 - 3 Ducks - https://kuja27.blogspot.com/2022/01/3-ducks-large-scale-visual-for.html 
 
 Chennai - Mylapore, Triplicane, Tiruvallur - 2019 - https://twitter.com/ka_shrinivaasan/status/1454709513878052864
 
@@ -408,6 +410,8 @@ Kumbakonam - 2015 - Shri Sharngapani Swamy Temple - https://twitter.com/ka_shrin
 Chennai Metro (2015), Madurai (2009), Coimbatore (2009) - https://twitter.com/ka_shrinivaasan/status/893804443459665920 
 
 Passport (May 2015) - http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download
+
+Chennai - 2014 - Cat and Dog - https://twitter.com/ka_shrinivaasan/status/1489659087738802176
 
 Chennai - 2014 - Thiruneermalai - https://twitter.com/ka_shrinivaasan/status/893808566116548608
 
