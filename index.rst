@@ -36,6 +36,8 @@ Profile (GitHub) - https://github.com/shrinivaasanka
 
 Profile (GitLab) - https://gitlab.com/shrinivaasanka
 
+Profile - OpenHub analyzer - https://www.openhub.net/accounts/ka_shrinivaasan
+
 NeuronRain -­a new Machine Learning, Cloud and Messaging augmented OS:
 ----------------------------------------------------------------------
 
@@ -408,6 +410,8 @@ Chennai Metro (2015), Madurai (2009), Coimbatore (2009) - https://twitter.com/ka
 Passport (May 2015) - http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download
 
 Chennai - 2014 - Thiruneermalai - https://twitter.com/ka_shrinivaasan/status/893808566116548608
+
+Chennai - 2014 - OMR and Marina - https://twitter.com/ka_shrinivaasan/status/1489649256005005312
 
 At Chennai Mahabalipuram - September 2012 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/home/DSC00388.JPG
 
