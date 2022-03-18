@@ -405,7 +405,9 @@ Chennai - Tiruvetriyur - 2016 - https://twitter.com/ka_shrinivaasan/status/14728
 
 Chennai - 2016 - ECR - Kovalam Beach and Thiruvidanthai - https://twitter.com/ka_shrinivaasan/status/893809168284475392
 
-Kumbakonam - 2015 - Shri Sharngapani Swamy Temple - https://twitter.com/ka_shrinivaasan/status/1454708262390013953 
+Chennai - IIT Madras - 2015 - https://twitter.com/ka_shrinivaasan/status/1504778623836110851
+
+Kumbakonam - 2015 - Shri Sharngapani Swamy Temple - https://twitter.com/ka_shrinivaasan/status/1454708262390013953 , https://twitter.com/ka_shrinivaasan/status/1504761670794883073 
 
 Chennai Metro (2015), Madurai (2009), Coimbatore (2009) - https://twitter.com/ka_shrinivaasan/status/893804443459665920 
 
