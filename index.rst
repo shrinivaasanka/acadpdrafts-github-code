@@ -208,25 +208,32 @@ NASA/ADS - https://ui.adsabs.harvard.edu/search/q=author%3A%22Shrinivaasan%2C%20
 
 Publication Texts (2008­- 2011) - (CMI-IMSc-IIT, Chennai) guided and reviewed 
 -------------------------------------------------------------------------
+
 Few Algorithms for Ascertaining Merit Of a Document  - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/MScThesis-WriteupReport.pdf
 
-(Master's thesis) arXiv Link to Few Algorithms for Ascertaining Merit of a Document  - http://arxiv.org/abs/1006.4458
+(Master's thesis) arXiv Link to Few Algorithms for Ascertaining Merit of a Document - 2010 - http://arxiv.org/abs/1006.4458 (Paperswithcode - https://paperswithcode.com/paper/few-algorithms-for-ascertaining-merit-of-a) 
 
 Presentation slides - Few Algorithms for Ascertaining Merit Of a Document - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/ThesisPresentation2.pdf
 
-(Published during PhD ­ October 2010) TAC 2010 dataset evaluation Update summarization with Interview Algorithm (with some updates added to the above)­ paper - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/TAC2010papersubmission.pdf
+-------------------------------------------------------------------------
+
+(Published during PhD - October 2010) TAC 2010 dataset evaluation Update summarization with Interview Algorithm (with some updates added to the above)­ paper - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/TAC2010papersubmission.pdf
 
 TAC 2010 dataset evaluation - Update summarization with Interview Algorithm (with some updates added to the above)­slides - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/PresentationTAC2010.pdf
 
-NIST TAC 2010 link to Update Summarization with Interview Algorithm - http://www.nist.gov/tac/publications/2010/participant.papers/CMI_IIT.proceedings.pdf
+NIST TAC 2010 link to Update Summarization with Interview Algorithm - http://www.nist.gov/tac/publications/2010/participant.papers/CMI_IIT.proceedings.pdf (TAC2010 dataset evaluation - old code - 2010 - https://github.com/shrinivaasanka/asfer-github-code/tree/master/python-src/InterviewAlgorithm/TAC2010)
+
+-------------------------------------------------------------------------
 
 Decidability of Existence and Construction of a Complement of a given function - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/complementoffunction-writeup.pdf
 
-arXiv Link to Decidability of Existence and Construction of a Complement of a given function - http://arxiv.org/abs/1106.4102
+arXiv Link to Decidability of Existence and Construction of a Complement of a given function - 2011 - http://arxiv.org/abs/1106.4102 (Paperswithcode - https://cs.paperswithcode.com/paper/decidability-of-existence-and-construction-of)
 
 Circuits for Complement of a function - old version - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/ComplementOfAFunction_earlier_draft.pdf
 
-NeuronRain Theory Drafts (2003-present) - private unaffiliated research - theory aligned to features of NeuronRain opensource products
+----------------------------------------------------------------------------------------------------------------------------------------
+NeuronRain Theory Drafts (2003-present) - private unaffiliated research - theory aligned to features of NeuronRain opensource products and
+later expansions (2012 - present) on earlier publications (2008-2011):
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Complexity Theoretic Analysis of Non-majority and Majority Social Choice, Majority Voting Boolean Composition Circuit and KRW Conjecture, P versus NP, ABC Conjecture, Four color Theorem, Zorn Lemma, Axiom of Choice (AOC), XOR Lemma and Hardness Amplification, Circuit Lowerbounds, Pseudorandomness(generators and extractors), Goodness of Voting and Margulis-Russo Threshold/Condorcet Jury Theorem (and its recent versions by [Black], [Ladha]), Theoretical Electronic Voting Machines and Pre-poll - Post-poll Analytics, Vowelless Syllable Boundary Text Compression and Compressed Sensing, Computational Chaos, Polynomial Reconstruction Problem, Complement Functions - Complementary Sets and their Function Representation(e.g Beatty Functions), Combinatorics (Ramsey coloring of sequences), PAC Learning, Prime-Composite complementation and pattern in primes, Goldbach Conjecture, Arithmetic Progressions, Diophantine Analysis and Representation, Riemann Zeta Function, Hypergeometric Functions, Clouds - Logical time and causality(EventNet), Formal Languages (Turing degrees, Embedding in vector space, Lambda Calculus, Category Theory, Logic) and learning lambda expressions from Natural Language Text, Cognitive Psychology - Grounded Cognition and ThoughtNet Evocation, Partial order intrinsic merit rankings and Galois connections, Graph theoretic/Computational Neurolinguistic/Question-Answering Interview Intrinsic Merit/Fitness/Fame and Experiential Learning in the context of WWW (people, text, audio - speech and music, visuals-video and images, economies) and Social/Economic networks, Social Network Models - Cellular Automaton and Random Graph Diffusion of Concepts-Memes-Fads- Cybercrimes, Game Theory, BKS Conjecture and Question-Answering, Machine Translation, Algorithmic Graph Theoretic Learning Models, Computational Learning Theory, Software Analytics/Program Analysis/Debug Analytics, Operating System Kernel and Scheduler Analytics, Astronomical Analytics of Celestial Bodies and correlations to Seismic-Atmospheric-Oceanic events, Urban planning analytics, Computational Astrophysics - N-body problem, Media Analytics and Advertisement Analytics, Preferential Attachment, Brand Loyalty and Business Intelligence, People Analytics/HR Analytics, Sports Analytics, Handwriting and Face Recognition for unique identification, Fame/Merit Equilibrium (Welfare Functions, Flow Market Equilibrium and  Convex-Concave Programming in Algorithmic Economics applied to Fame-Merit) and Economic Merit(Intrinsic pricing),Cryptocurrencies and Money Trail (EventNet Graph),Optimal Denomination and Money Changing - Coin Problem,Mechanism Design, Time series analysis (economic and weather forecasts), Neural Networks and Deep Learning, Quantum mechanics and Intrinsic Fitness/Merit(Bose- Einstein condensation in networks), Locality Sensitive Hashing and Separate Chaining Hash tables, Multiple Agent Resource Allocation, Integer Partitions(additive and multiplicative), Set Partitions, Space filling/Lagrangian Four Square Theorem Tiling/Circle Packing, Exact Cover, Random Closed Packing, Number Theory, Quadratic and Linear Programming, Cellular Automata, Satisfiability (Least Square SAT Solvers and QBFSAT), Random restrictions and Hastad Switching Lemma, Classical NC-PRAM-BSP (k-mergesort, segment tree, wavelet tree, ray shooting queries, planar point location, sorting networks,local search of rasterized hyperbolic segment arithmetic progressions), Randomized NC and Quantum NC Computational Geometric Integer Factoring, Rasterization of Algebraic Curves, Algebraic Geometry, Knot Theory, Topology and Connections amongst them - (most recent draft updates to all publications previously and earlier drafts below - in text format - nonlinear theoretical writeups interspersed between NeuronRain code commits in SourceForge, GitLab and GitHub - links to relevant feature implementations and theory drafts in design notes of NeuronRain repositories - AstroInfer,USBmd,VIRGO,KingCobra,GRAFIT,Krishna_iResearch_Doxygen_Docs,Acadpdrafts):
@@ -433,7 +440,7 @@ Sun Microsystems 3 (2004) - Bengaluru IEC DivyaSree Chambers - https://github
 
 COBRA (a not­so­naive cloud precursor implemented during BE in 1999 on CORBA) - https://sourceforge.net/projects/acadpdrafts/files/Excerpts_Of_PSG_BE_FinalProject_COBRA_done_in_1999.pdf/download
 
-Assorted Montage Video Footages and Images (Drone simulations, Unique ID Profiles and Facial - used in NeuronRain Large Scale Visual Analytics) - https://github.com/shrinivaasanka/asfer-github-code/blob/master/python-src/image_pattern_mining/ImageNet/testlogs/ , https://kuja27.blogspot.in/ 
+Assorted Montage Video Footages and Images (Drone simulations, Wildlife, Unique ID Profiles and Facial - used in NeuronRain Large Scale Visual Analytics) - https://github.com/shrinivaasanka/asfer-github-code/blob/master/python-src/image_pattern_mining/ImageNet/testlogs/ , https://kuja27.blogspot.in/ 
 
 PSG Tech 1995 CSE Reunion - Chennai - 2016 - https://twitter.com/ka_shrinivaasan/status/1472872124754939907
 
