@@ -419,6 +419,10 @@ Chennai Metro (2015), Madurai (2009), Coimbatore (2009) - https://twitter.com/ka
 
 Passport (May 2015) - http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download
 
+Chennai - 2014 - Nature - https://twitter.com/ka_shrinivaasan/status/1509807961962520576
+
+Chennai - 2014 - Vandalur Zoological Park - https://twitter.com/ka_shrinivaasan/status/1509807633275908099
+
 Chennai - 2014 - Cat and Dog - https://twitter.com/ka_shrinivaasan/status/1489659087738802176
 
 Chennai - 2014 - Thiruneermalai - https://twitter.com/ka_shrinivaasan/status/893808566116548608
