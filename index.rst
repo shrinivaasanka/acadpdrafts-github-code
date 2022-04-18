@@ -20,7 +20,6 @@
    :alt: alternate text
    :align: center 
 
-
 K.Srinivasan - CV and NeuronRain Features:
 ------------------------------------------
 
@@ -159,10 +158,15 @@ GRAFIT course material in Moodle
 
 https://moodle.org/pluginfile.php/4765687/user/private/Grafit-master.zip?forcedownload=1
 
-BRIHASPATHI - Private Virtual Classrooms and JAIMINI Closed Source Private Repositories
-----------------------------------------------------------------------------------------
+BRIHASPATHI - Private Virtual Classrooms: 
+-----------------------------------------
 
-GitHub - Private repositories of virtual classrooms for various commercial online courses (BigData, Machine Learning, Topics in Mathematics and Computer Science,...) and JAIMINI Closed Source Derivative of NeuronRain - https://github.com/Brihaspathi - requires GitHub student logins
+GitHub - Private repositories of virtual classrooms for various commercial online courses (for graduate students and professionals - requires GitHub student logins) - BigData and Machine Learning, Topics in Mathematics and Computer Science, Linux Kernel and Cloud, Vedic Astrology, English, Hindi - https://github.com/Brihaspathi - Consultancy offered on BigData-Machine Learning, Linux Kernel-Cloud and other IT arena, Vedic Astrology (Brihaspathi Jyotish Vigyan Kendra - Personal reading, Matrimonial matchmaking,...)
+
+JAIMINI Closed Source Derivative of NeuronRain:
+-----------------------------------------------
+
+GitHub  - https://github.com/Brihaspathi/jaimini
 
 SourceForge - https://sourceforge.net/projects/jaimini/
 
@@ -379,7 +383,7 @@ Blogs
 
 HAMSA - https://kuja27.blogspot.in/ (Audio-Visuals and Course material on Computer Science, Machine Learning etc., - complements and contains links to large visuals used within NeuronRain repositories)
 
-VARAHAMIHIRA - https://varahamihira.wordpress.com/ (Astronomy, Sanskrit etc.,)
+VARAHAMIHIRA - https://varahamihira.wordpress.com/ (Astronomy, Sanskrit, Vedic Astrology etc.,)
 
 Alumni Profiles
 ----------------
@@ -411,6 +415,8 @@ Chennai - Tiruvetriyur - 2016 - https://twitter.com/ka_shrinivaasan/status/14728
 
 Chennai - 2016 - ECR - Kovalam Beach and Thiruvidanthai - https://twitter.com/ka_shrinivaasan/status/893809168284475392
 
+Chennai - 2015 - https://twitter.com/ka_shrinivaasan/status/1516080302828896260
+
 Chennai - IIT Madras - 2015 - https://twitter.com/ka_shrinivaasan/status/1504778623836110851
 
 Kumbakonam - 2015 - Shri Sharngapani Swamy Temple - https://twitter.com/ka_shrinivaasan/status/1454708262390013953 , https://twitter.com/ka_shrinivaasan/status/1504761670794883073 
@@ -434,6 +440,8 @@ At Chennai Mahabalipuram - September 2012 - https://github.com/shrinivaasan
 View of SIPCOT Chennai-Siruseri TCS from CMI in twilight - August 2010 - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/home/DSC00689.JPG
 
 Microsoft Winter School on Machine Learning - CIFAR - IISc - Bengaluru - January 2010 - https://sourceforge.net/projects/acadpdrafts/files/MSc-microsoftwinterschool2010groupphoto.jpg/download
+
+Chennai - 2008 - World War I Memorial - Emden Shelling (1914) - https://twitter.com/ka_shrinivaasan/status/1516072894316494852
 
 Sun Microsystems group photo 1 (2000) - Bengaluru IEC DivyaSree Chambers - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/iplanetsunmicrosystems2000groupphoto.jpeg
 
