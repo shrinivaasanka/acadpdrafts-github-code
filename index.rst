@@ -39,6 +39,7 @@ Profile - OpenHub analyzer - https://www.openhub.net/accounts/ka_shrinivaasan
 
 NeuronRain -­a new Machine Learning, Cloud and Messaging augmented OS:
 ----------------------------------------------------------------------
+.. image :: Krishna_iResearch-logos.jpeg
 
 NeuronRain Research -­ SourceForge Repositories ­for astronomy datasets and academic research:
 ---------------------------------------------------------------------------------------------
