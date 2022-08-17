@@ -404,7 +404,7 @@ Chennai - Mylapore, Triplicane, Tiruvallur - 2019 - https://twitter.com/ka_shrin
 
 Chennai - Siruseri - SIPCOT - TCS Tower - 2019 - https://twitter.com/ka_shrinivaasan/status/1472872731137826816
 
-Kumbakonam - Cauvery - 2019 - https://twitter.com/ka_shrinivaasan/status/1472870954019733505
+Kumbakonam - Cauvery - 2019 and 2022 - https://twitter.com/ka_shrinivaasan/status/1472870954019733505, https://twitter.com/ka_shrinivaasan/status/1559847855476510720
 
 Madurai - Azhagar hills - 2018 - https://twitter.com/ka_shrinivaasan/status/1473313777810612227
 
