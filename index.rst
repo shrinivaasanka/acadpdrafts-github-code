@@ -162,7 +162,7 @@ https://moodle.org/pluginfile.php/4765687/user/private/Grafit-master.zip?forcedo
 BRIHASPATHI - Private Virtual Classrooms: 
 -----------------------------------------
 
-GitHub - Private repositories of virtual classrooms for various commercial online courses (for graduate students and professionals - requires GitHub student logins) - BigData and Machine Learning, Topics in Mathematics and Computer Science, Linux Kernel and Cloud, Vedic Astrology, English, Hindi - https://github.com/Brihaspathi - Consultancy offered on BigData-Machine Learning, Linux Kernel-Cloud and other IT arena, Vedic Astrology (Brihaspathi Jyotish Vigyan Kendra - Personal reading, Matrimonial matchmaking,...)
+GitHub - Private repositories of virtual classrooms for various commercial online courses (for graduate students and professionals - requires GitHub student logins) - BigData and Machine Learning, Topics in Mathematics and Computer Science, Linux Kernel and Cloud, Vedic Astrology, English, Hindi - https://github.com/Brihaspathi - Consultancy offered on BigData-Machine Learning, Linux Kernel-Cloud and other IT arena, Vedic Astrology (Brihaspathi Jyotish Vigyan Kendra - Personal reading, Matrimonial matchmaking,...) - Atlassian BitBucket - https://bitbucket.org/ka_shrinivaasan/ (NeuronRain repositories imported as course material supplement to BRIHASPATHI - https://github.com/Brihaspathi - Virtual classrooms) - Advertisement - The Hindu - 19 January 2023: https://github.com/shrinivaasanka/acadpdrafts-github-code/blob/master/BrihaspathiTheHinduAdvt_TrichyEdition_2023-01-19.pdf 
 
 JAIMINI Closed Source Derivative of NeuronRain:
 -----------------------------------------------
