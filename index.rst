@@ -37,6 +37,8 @@ Profile (GitLab) - https://gitlab.com/shrinivaasanka
 
 Profile - OpenHub analyzer - https://www.openhub.net/accounts/ka_shrinivaasan
 
+Profile (Atlassian) - JIRA and Wiki - https://krishnairesearch.atlassian.net/
+
 NeuronRain -­a new Machine Learning, Cloud and Messaging augmented OS:
 ----------------------------------------------------------------------
 .. image :: Krishna_iResearch-logos.jpeg
