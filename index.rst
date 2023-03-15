@@ -444,6 +444,8 @@ View of SIPCOT Chennai-Siruseri TCS from CMI in twilight - August 2010
 
 Microsoft Winter School on Machine Learning - CIFAR - IISc - Bengaluru - January 2010 - https://sourceforge.net/projects/acadpdrafts/files/MSc-microsoftwinterschool2010groupphoto.jpg/download
 
+Sunrise above clouds - 2008 - https://kuja27.blogspot.com/2023/03/sunrise-above-clouds-2008.html
+
 Chennai - 2008 - World War I Memorial - Emden Shelling (1914) - https://twitter.com/ka_shrinivaasan/status/1516072894316494852
 
 Sun Microsystems group photo 1 (2000) - Bengaluru IEC DivyaSree Chambers - https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/kuja27_website_mirrored/site/kuja27/iplanetsunmicrosystems2000groupphoto.jpeg
