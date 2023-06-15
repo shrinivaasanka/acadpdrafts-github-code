@@ -1,4 +1,4 @@
-# Configuration file for the NeuronRain Documentation builder.
+# Configuration file for the acadpdrafts.readthedocs.io builder.
 #
 
 # -- Path setup --------------------------------------------------------------
