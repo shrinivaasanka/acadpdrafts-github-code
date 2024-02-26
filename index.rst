@@ -401,6 +401,8 @@ PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srin
 Personal Memorabilia and selected visuals (archaeology, architecture, nature, wild life)
 -----------------------------------------------------------------------------------------------
 
+Chennai - 2023 - https://x.com/ka_shrinivaasan/status/1762070350903321004?s=20 , https://x.com/ka_shrinivaasan/status/1762069408820645903?s=20
+
 Kumbakonam - 2022 - 3 Ducks - https://kuja27.blogspot.com/2022/01/3-ducks-large-scale-visual-for.html 
 
 Chennai - Mylapore, Triplicane, Tiruvallur - 2019 - https://twitter.com/ka_shrinivaasan/status/1454709513878052864
