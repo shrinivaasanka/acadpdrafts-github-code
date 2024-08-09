@@ -1,5 +1,5 @@
 
-.. image :: index-1_1.png
+.. image :: KSrinivasan.jpg 
    :height: 200px
    :width: 400px
    :scale: 100%
