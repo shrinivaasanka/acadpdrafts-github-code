@@ -15,7 +15,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Academic Publications and NeuronRain Theory Drafts (some of them implemented in NeuronRain)"
-copyright = "2023 K.Srinivasan"
+copyright = "2024 K.Srinivasan"
 author = "K.Srinivasan"
 
 
