@@ -1,7 +1,7 @@
 
 .. image :: KSrinivasan.jpg 
-   :height: 500px
-   :width: 400px
+   :height: 600px
+   :width: 350px
    :scale: 100%
    :alt: alternate text
    :align: center 
@@ -400,6 +400,8 @@ PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srin
 
 Personal Memorabilia and selected visuals (archaeology, architecture, nature, wild life)
 -----------------------------------------------------------------------------------------------
+
+Trichy-Srirangam - 2024 - https://x.com/ka_shrinivaasan/status/1821855596150194494/photo/1
 
 Chennai - 2023 - https://x.com/ka_shrinivaasan/status/1762070350903321004?s=20 , https://x.com/ka_shrinivaasan/status/1762069408820645903?s=20
 
