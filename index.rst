@@ -1,6 +1,6 @@
 
 .. image :: KSrinivasan.jpg 
-   :height: 200px
+   :height: 500px
    :width: 400px
    :scale: 100%
    :alt: alternate text
