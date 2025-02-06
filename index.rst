@@ -130,8 +130,7 @@ Krishna_iResearch_DoxygenDocs (GitLab)  - https://gitlab.com/shrinivaasanka/Kri
 
 Krishna_iResearch_DoxygenDocs (SourceForge) - https://sourceforge.net/u/userid-769929/Krishna_iResearch_DoxygenDocs/ci/master/tree/
 
-NeuronRain Documentation and Licensing in ReadTheDocs and FAQ (Previous Docs repos have most recent updates on Licensing and PDF/HTML
-Documentation)  - http://neuronrain-documentation.readthedocs.io/en/latest/
+NeuronRain Documentation and Licensing in ReadTheDocs and FAQ (Previous Docs repos have most recent updates on Licensing and PDF/HTML Documentation)  - http://neuronrain-documentation.readthedocs.io/en/latest/
 
 Krishna iResearch (old link updated in 2006) - http://www.freelanceindia.com/Freelancer/Software_Programming_Database_Development/Others/viewprofile.asp?code=7291
 
@@ -250,6 +249,9 @@ Krishna_iResearch_DoxygenDocs  (GitHub) - https://github.com/shrinivaasanka/Kr
 Krishna_iResearch_DoxygenDocs (GitLab) - https://gitlab.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/-/blob/b848a7e8c07ad5084594baca2e5251b0f93d9f23/index.rst
 
 Krishna_iResearch_DoxygenDocs (SourceForge) - https://sourceforge.net/u/ka_shrinivaasan/Krishna_iResearch_DoxygenDocs/ci/master/tree/index.rst
+
+GitHub Pages NeuronRain Documentation - https://shrinivaasanka.github.io/Krishna_iResearch_DoxygenDocs/
+
 
 Earlier Publication Drafts (2012 - present) - unaffiliated private theoretical research - unguided and unreviewed
 -----------------------------------------------------------------------------------------------------------------
@@ -400,6 +402,8 @@ PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srin
 
 Personal Memorabilia and selected visuals (archaeology, architecture, nature, wild life)
 -----------------------------------------------------------------------------------------------
+
+Trichy-Srirangam - 2025 - https://x.com/ka_shrinivaasan/status/1887448193157505473
 
 Trichy-Srirangam - 2024 - https://x.com/ka_shrinivaasan/status/1821855596150194494/photo/1
 
