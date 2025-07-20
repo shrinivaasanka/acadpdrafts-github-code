@@ -403,6 +403,8 @@ PSG Tech Alumnus Page (1999) - http://alumni.psgtech.ac.in/profile/view/srin
 Personal Memorabilia and selected visuals (archaeology, architecture, nature, wild life)
 -----------------------------------------------------------------------------------------------
 
+Chennai-Kanchipuram-Marina (April 2025), Thiruvellarai-Trichy (June 2025), Thiruvahindrapuram-Pondy Marina (July 2025) - https://x.com/ka_shrinivaasan/status/1946867950247723318 , https://x.com/ka_shrinivaasan/status/1946868267458707663 , https://x.com/ka_shrinivaasan/status/1946868899863204092 
+
 Trichy-Srirangam - 2025 - https://x.com/ka_shrinivaasan/status/1887448193157505473
 
 Trichy-Srirangam - 2024 - https://x.com/ka_shrinivaasan/status/1821855596150194494/photo/1
