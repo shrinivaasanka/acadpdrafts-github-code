@@ -1,12 +1,755 @@
-<!DOCTYPE html>
-<html>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>index</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="generator" content="pdftohtml 0.36"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.21.2: https://docutils.sourceforge.io/" />
+<title>index.rst</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 9511 2024-01-13 09:50:07Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+Despite the name, some widely supported CSS2 features are used.
+
+See https://docutils.sourceforge.io/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+.subscript {
+  vertical-align: sub;
+  font-size: smaller }
+
+.superscript {
+  vertical-align: super;
+  font-size: smaller }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
+  overflow: hidden;
+}
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title, .code .error {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left, object.align-left, table.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right, object.align-right, table.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+img.align-center, .figure.align-center, object.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.align-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: inherit }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+.align-top    {
+  vertical-align: top }
+
+.align-middle {
+  vertical-align: middle }
+
+.align-bottom {
+  vertical-align: bottom }
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block, pre.math, pre.code {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+pre.code .ln { color: gray; } /* line numbers */
+pre.code, code { background-color: #eeeeee }
+pre.code .comment, code .comment { color: #5C6576 }
+pre.code .keyword, code .keyword { color: #3B0D06; font-weight: bold }
+pre.code .literal.string, code .literal.string { color: #0C5404 }
+pre.code .name.builtin, code .name.builtin { color: #352B84 }
+pre.code .deleted, code .deleted { background-color: #DEB0A1}
+pre.code .inserted, code .inserted { background-color: #A3D289}
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic, pre.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+/* "booktabs" style (no vertical lines) */
+table.docutils.booktabs {
+  border: 0px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  border-collapse: collapse;
+}
+table.docutils.booktabs * {
+  border: 0px;
+}
+table.docutils.booktabs th {
+  border-bottom: thin solid;
+  text-align: left;
+}
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
 </head>
-<frameset cols="100,*">
-<frame name="links" src="index_ind.html"/>
-<frame name="contents" src="indexs.html"/>
-</frameset>
+<body>
+<div class="document">
+
+
+<p><img alt="image0" src="index-1_1.png" />
+<img alt="image1" src="index-1_2.png" />
+<img alt="image2" src="index-1_3.png" />
+<img alt="image3" src="index-1_4.png" />
+<img alt="image4" src="index-1_5.png" />
+<img alt="image5" src="index-1_6.png" />
+Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="mailto:ka.shrinivaasan&#64;gmail.com">ka.shrinivaasan&#64;gmail.com</a>
+home&nbsp;&nbsp;Updated&nbsp;9&nbsp;hours&nbsp;ago
+**&nbsp;&nbsp;Share**</p>
+<p><a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K.Srinivasan&nbsp;**
+<strong>(also&nbsp;spelt&nbsp;as:</strong>**&nbsp;Srinivasan&nbsp;Kannan,&nbsp;Shrinivaasan&nbsp;Kannan,&nbsp;Shrinivas&nbsp;Kannan)**
+<strong>Shortest&nbsp;CV&nbsp;­**`&nbsp;LatexPDF &lt;https://sites.google.com/site/kuja27/CV.pdf?attredirects=0&gt;`__
+**Longest&nbsp;CV&nbsp;­**`&nbsp;PDF &lt;https://sites.google.com/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.pdf?attredirects=0&gt;`__
+**Longest&nbsp;CV&nbsp;­**`&nbsp;Text&nbsp; &lt;https://sites.google.com/site/kuja27/CV_of_SrinivasanKannan_alias_KaShrinivaasan_alias_ShrinivasKannan.txt?attredirects=0&gt;`__
+**Krishna&nbsp;iResearch&nbsp;Open&nbsp;Source&nbsp;Products&nbsp;­&nbsp;&nbsp;open&nbsp;source&nbsp;research&nbsp;initiative&nbsp;of
+self&nbsp;­&nbsp;(2003&nbsp;­&nbsp;Present)&nbsp;­**`&nbsp;Profile&nbsp;(SourceForge), &lt;https://sourceforge.net/u/userid-769929/profile/&gt;`__`&nbsp;Profile&nbsp;(GitHub), &lt;https://github.com/shrinivaasanka&gt;`__`&nbsp;Profile&nbsp;(GitLab) &lt;https://gitlab.com/shrinivaasanka&gt;`__
+**NeuronRain&nbsp;­&nbsp;a&nbsp;new&nbsp;Machine&nbsp;Learning,&nbsp;Cloud&nbsp;and&nbsp;Messaging&nbsp;augmented&nbsp;OS:</strong>
+<strong>NeuronRain&nbsp;Research&nbsp;­&nbsp;SourceForge&nbsp;Repositories&nbsp;­&nbsp;for&nbsp;astronomy&nbsp;datasets
+and&nbsp;academic&nbsp;research:</strong>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/?source=navbar">ACADPDRAFTS&nbsp;­&nbsp;Publications,&nbsp;Drafts&nbsp;</a><strong>etc.,</strong>
+<a class="reference external" href="https://sourceforge.net/projects/virgo-linux/">VIRGO&nbsp;­&nbsp;VIRtual&nbsp;Generic&nbsp;Os&nbsp;­&nbsp;L</a><strong>inux&nbsp;kernel&nbsp;fork­off&nbsp;(kernel&nbsp;modules,system</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<strong>calls&nbsp;etc.,)&nbsp;with&nbsp;cloud&nbsp;and&nbsp;machine&nbsp;learning&nbsp;features&nbsp;(32&nbsp;bit&nbsp;based&nbsp;on&nbsp;4.1.5&nbsp;mainline)</strong>
+<a class="reference external" href="https://sourceforge.net/projects/virgo64-linux/">VIRGO64&nbsp;</a><strong>-&nbsp;64&nbsp;bit&nbsp;version&nbsp;of&nbsp;previous&nbsp;VIRGO&nbsp;Linux&nbsp;kernel&nbsp;based
+on&nbsp;4.13.3&nbsp;mainline</strong>
+<a class="reference external" href="https://sourceforge.net/projects/usb-md/">USBmd&nbsp;­&nbsp;&nbsp;USB&nbsp;driver&nbsp;kernel&nbsp;module&nbsp;for&nbsp;n</a><strong>etwork&nbsp;analytics,&nbsp;debugging&nbsp;etc.,&nbsp;based&nbsp;on
+32­bit&nbsp;4.1.5&nbsp;linux&nbsp;kernel</strong>
+<a class="reference external" href="https://sourceforge.net/p/usb-md64/">USBmd64</a>`&nbsp;­&nbsp;&nbsp;USB&nbsp;driver&nbsp;kernel&nbsp;module&nbsp;for&nbsp;n &lt;<a class="reference external" href="https://sourceforge.net/projects/usb-md/">https://sourceforge.net/projects/usb-md/</a>&gt;`__<strong>etwork&nbsp;analytics,&nbsp;debugging&nbsp;etc.,&nbsp;based
+on&nbsp;64­bit&nbsp;4.13.3&nbsp;linux&nbsp;kernel</strong>
+<a class="reference external" href="http://asfer.sourceforge.net/">ASFER&nbsp;­&nbsp;AStroinFER&nbsp;­&nbsp;B</a><strong>igData&nbsp;Analytics&nbsp;and&nbsp;Machine&nbsp;Learning&nbsp;Software&nbsp;for
+Large&nbsp;Data&nbsp;Sets&nbsp;(at&nbsp;present&nbsp;implemented&nbsp;for&nbsp;Astronomical&nbsp;Datasets)</strong>
+<a class="reference external" href="https://sourceforge.net/projects/kcobra/">KINGCOBRA&nbsp;­&nbsp;</a>**&nbsp;Linux&nbsp;kernelspace&nbsp;messaging&nbsp;with&nbsp;miscellaneous
+applications&nbsp;based&nbsp;on&nbsp;32­bit&nbsp;4.1.5&nbsp;linux&nbsp;kernel**
+<a class="reference external" href="https://sourceforge.net/p/kcobra64/">KINGCOBRA64&nbsp;</a>**&nbsp;­&nbsp;Linux&nbsp;kernelspace&nbsp;messaging&nbsp;with&nbsp;miscellaneous&nbsp;applications
+based&nbsp;on&nbsp;64­bit&nbsp;4.13.3&nbsp;linux&nbsp;kernel**
+<a href="#system-message-1"><span class="problematic" id="problematic-1">**</span></a>NeuronRain&nbsp;Green&nbsp;­&nbsp;GitHub&nbsp;and&nbsp;GitLab&nbsp;Repositories&nbsp;­&nbsp;for&nbsp;generic&nbsp;datasets
+on&nbsp;cloud&nbsp;(replicated&nbsp;in<a href="#system-message-2"><span class="problematic" id="problematic-2">**</span></a>`&nbsp;GitLab) &lt;<a class="reference external" href="https://gitlab.com/shrinivaasanka">https://gitlab.com/shrinivaasanka</a>&gt;`__
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<div class="system-message" id="system-message-1">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 33); <em><a href="#problematic-1">backlink</a></em></p>
+Inline strong start-string without end-string.</div>
+<div class="system-message" id="system-message-2">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 33); <em><a href="#problematic-2">backlink</a></em></p>
+Inline strong start-string without end-string.</div>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="https://github.com/shrinivaasanka/virgo-linux-github-code">VIRGO&nbsp;­&nbsp;</a><strong>VIRtual&nbsp;Generic&nbsp;Os&nbsp;­&nbsp;Linux&nbsp;kernel&nbsp;fork­off&nbsp;(kernel&nbsp;modules,system
+calls&nbsp;etc.,)&nbsp;with&nbsp;cloud&nbsp;and&nbsp;machine&nbsp;learning&nbsp;features&nbsp;(32&nbsp;bit&nbsp;based&nbsp;on&nbsp;4.1.5&nbsp;mainline)</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/virgo64-linux-github-code">VIRGO64&nbsp;</a><strong>-&nbsp;64&nbsp;bit&nbsp;version&nbsp;of&nbsp;previous&nbsp;VIRGO&nbsp;Linux&nbsp;kernel&nbsp;based
+on&nbsp;4.13.3&nbsp;mainline</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/usb-md-github-code">USBmd</a>`&nbsp;­&nbsp;U &lt;<a class="reference external" href="https://sourceforge.net/projects/usb-md/">https://sourceforge.net/projects/usb-md/</a>&gt;`__<strong>SB&nbsp;driver&nbsp;kernel&nbsp;module&nbsp;for&nbsp;network&nbsp;analytics,&nbsp;debugging&nbsp;etc.,&nbsp;based&nbsp;on&nbsp;32­</strong>
+<strong>bit&nbsp;4.1.5&nbsp;linux&nbsp;kernel</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/usb-md64-github-code">USBmd64</a>`&nbsp;­&nbsp; &lt;<a class="reference external" href="https://sourceforge.net/projects/usb-md/">https://sourceforge.net/projects/usb-md/</a>&gt;`__<strong>USB&nbsp;driver&nbsp;kernel&nbsp;module&nbsp;for&nbsp;network&nbsp;analytics,&nbsp;debugging&nbsp;etc.,&nbsp;based&nbsp;on</strong>
+<strong>64­bit&nbsp;4.13.3&nbsp;linux&nbsp;kernel</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/asfer-github-code">ASFER&nbsp;­&nbsp;AStroinFER&nbsp;­&nbsp;B</a><strong>igData&nbsp;Analytics&nbsp;and&nbsp;Machine&nbsp;Learning&nbsp;Software&nbsp;for</strong>
+<strong>Large&nbsp;Data&nbsp;Sets</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/kingcobra-github-code">KINGCOBRA&nbsp;­</a>**&nbsp;Linux&nbsp;kernelspace&nbsp;messaging&nbsp;with&nbsp;miscellaneous**
+<strong>applications&nbsp;based&nbsp;on&nbsp;32­bit&nbsp;4.1.5&nbsp;linux&nbsp;kernel
+**`KINGCOBRA64&nbsp;&nbsp; &lt;https://github.com/shrinivaasanka/kingcobra64-github-code&gt;`__**Linux&nbsp;kernelspace&nbsp;messaging&nbsp;with&nbsp;miscellaneous</strong>
+<strong>applications&nbsp;based&nbsp;on&nbsp;64­bit&nbsp;4.13.3&nbsp;linux&nbsp;kernel</strong>
+<strong>NeuronRain&nbsp;Documentation&nbsp;and&nbsp;Licensing</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs">Krishna_iResearch_DoxygenDocs&nbsp;&nbsp;(GitHub)</a>`&nbsp;(&nbsp;NeuronRain&nbsp;­&nbsp;Architecture
+Diagrams&nbsp;1&nbsp;,&nbsp;NeuronRain&nbsp;­&nbsp;Architecture&nbsp;Diagrams&nbsp;2&nbsp;) &lt;<a class="reference external" href="https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/Krishna_iResearch_opensourceproducts_archdiagram.pdf">https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/Krishna_iResearch_opensourceproducts_archdiagram.pdf</a>&gt;`__
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="https://gitlab.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs">Krishna_iResearch_DoxygenDocs&nbsp;(GitLab)</a>
+<a class="reference external" href="https://sourceforge.net/u/userid-769929/Krishna_iResearch_DoxygenDocs/ci/master/tree/">Krishna_iResearch_DoxygenDocs&nbsp;(SourceForge)</a>
+<a class="reference external" href="http://neuronrain-documentation.readthedocs.io/en/latest/">NeuronRain&nbsp;Documentation&nbsp;and&nbsp;Licensing&nbsp;in&nbsp;ReadTheDocs&nbsp;and&nbsp;FAQ&nbsp;(Previous
+Docs&nbsp;repos&nbsp;have&nbsp;most&nbsp;recent&nbsp;updates&nbsp;on&nbsp;Licensing&nbsp;and&nbsp;PDF/HTML
+Documentation)</a>
+<a class="reference external" href="http://www.freelanceindia.com/Freelancer/Software_Programming_Database_Development/Others/viewprofile.asp?code=7291">Krishna&nbsp;iResearch&nbsp;(old&nbsp;link&nbsp;updated&nbsp;in&nbsp;2006)</a>
+<strong>Bifurcation&nbsp;of&nbsp;code&nbsp;bases&nbsp;into&nbsp;32­bit&nbsp;and&nbsp;64­bit&nbsp;previously&nbsp;has&nbsp;been&nbsp;chosen&nbsp;than&nbsp;branching/ifdefs&nbsp;because&nbsp;of</strong>
+<strong>drastic&nbsp;difference&nbsp;in&nbsp;linux&nbsp;kernel&nbsp;versions/functionalities/dependencies&nbsp;between&nbsp;base&nbsp;kernels&nbsp;for&nbsp;32&nbsp;and&nbsp;64</strong>
+<strong>bits.&nbsp;The&nbsp;opensource&nbsp;codebases&nbsp;in&nbsp;SourceForge,&nbsp;GitHub&nbsp;and&nbsp;GitLab&nbsp;above&nbsp;are&nbsp;non&nbsp;funded,non&nbsp;profit&nbsp;academic</strong>
+<strong>research&nbsp;efforts.&nbsp;Premium&nbsp;technical&nbsp;support&nbsp;is&nbsp;available&nbsp;for&nbsp;above&nbsp;opensource&nbsp;codebases.&nbsp;GitHub/GitLab</strong>
+<strong>repositories&nbsp;implement&nbsp;NeuronRain&nbsp;Green&nbsp;and&nbsp;SourceForge&nbsp;repositories&nbsp;implement&nbsp;NeuronRain&nbsp;Research</strong>
+<strong>versions.&nbsp;Dual&nbsp;licensed&nbsp;closedsource&nbsp;premium&nbsp;commercial&nbsp;versions&nbsp;with&nbsp;enhanced&nbsp;features&nbsp;on&nbsp;above&nbsp;GPL</strong>
+<strong>products&nbsp;in&nbsp;development&nbsp;since&nbsp;2010.</strong>
+<strong>Free&nbsp;online&nbsp;course&nbsp;materials</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/Grafit">GRAFIT&nbsp;Open&nbsp;Learning&nbsp;­&nbsp;[GitHub]</a>
+<a class="reference external" href="https://gitlab.com/shrinivaasanka/Grafit">GRAFIT&nbsp;Open&nbsp;Learning&nbsp;­&nbsp;[GitLab]</a>
+Changes&nbsp;you&nbsp;make&nbsp;here&nbsp;won't&nbsp;be&nbsp;reflected&nbsp;in&nbsp;the&nbsp;converted&nbsp;site.&nbsp;<a class="reference external" href="https://support.google.com/sites/answer/7035197">Learn&nbsp;more&nbsp;</a><a class="reference external" href="https://sites.google.com/s/1WCuHps7FMikOpN417NKemRJB_j5WKARS/edit">Open&nbsp;new&nbsp;site</a>
+<a class="reference external" href="https://sourceforge.net/u/userid-769929/Grafit/ci/master/tree/">GRAFIT&nbsp;Open&nbsp;Learning&nbsp;­&nbsp;[SourceForge]</a>
+<strong>Virtual&nbsp;GitHub&nbsp;Classroom&nbsp;for&nbsp;GRAFIT&nbsp;course&nbsp;material&nbsp;repository&nbsp;-</strong>
+<a class="reference external" href="https://classroom.github.com/classrooms/8086998-https-github-com-shrinivaasanka-grafit">https://classroom.github.com/classrooms/8086998-https-github-com-</a>
+<a class="reference external" href="https://classroom.github.com/classrooms/8086998-https-github-com-shrinivaasanka-grafit">shrinivaasanka-grafit&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<strong>GRAFIT&nbsp;course&nbsp;material&nbsp;in&nbsp;Moodle</strong>
+<a class="reference external" href="https://moodle.org/pluginfile.php/4765687/user/private/Grafit-master.zip?forcedownload=1">-&nbsp;https://moodle.org/pluginfile.php/4765687/user/private/Grafit-</a>
+<a class="reference external" href="https://moodle.org/pluginfile.php/4765687/user/private/Grafit-master.zip?forcedownload=1">master.zip?forcedownload=1</a>
+<strong>BRIHASPATHI&nbsp;-&nbsp;Private&nbsp;Virtual&nbsp;Classrooms</strong>
+<strong>Private&nbsp;repositories&nbsp;of&nbsp;virtual&nbsp;classrooms&nbsp;for&nbsp;various&nbsp;commercial&nbsp;online&nbsp;**
+**courses&nbsp;(BigData,&nbsp;Machine&nbsp;Learning,&nbsp;Topics&nbsp;in&nbsp;Mathematics&nbsp;and&nbsp;Computer&nbsp;**
+**Science,...)-**`&nbsp;https://github.com/Brihaspathi &lt;https://github.com/Brihaspathi&gt;`__**&nbsp;-&nbsp;requires&nbsp;GitHub&nbsp;student&nbsp;logins&nbsp;**
+**Research&nbsp;statements</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ResearchStatement2.pdf?attredirects=0">Research&nbsp;statement&nbsp;1&nbsp;(2010)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/PhDThesisProposal.pdf?attredirects=0">Research&nbsp;statement&nbsp;2&nbsp;­&nbsp;with&nbsp;some&nbsp;proof&nbsp;sketches&nbsp;(2011)&nbsp;&nbsp;(Algorithm&nbsp;for&nbsp;Timeout
+implemented&nbsp;on&nbsp;Global&nbsp;Decisioning&nbsp;Platform&nbsp;3.0&nbsp;­&nbsp;Copyright:&nbsp;Global&nbsp;Analytics)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/Research_Writeup.pdf?attredirects=0&amp;d=1">Research&nbsp;statement&nbsp;3&nbsp;­&nbsp;with&nbsp;some&nbsp;proof&nbsp;sketches&nbsp;(2014)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/BITSPilaniAV.pdf?attredirects=0">Research&nbsp;Statement&nbsp;4&nbsp;-&nbsp;Presentation&nbsp;to&nbsp;BITS&nbsp;Pilani&nbsp;(6&nbsp;June&nbsp;2018)&nbsp;-&nbsp;ppt</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ResearchAreas.pdf?attredirects=0">Research&nbsp;Statement&nbsp;5&nbsp;(2018)</a>**&nbsp;**
+<strong>Patents</strong>
+<a class="reference external" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=0&amp;f=S&amp;l=50&amp;d=PTXT&amp;Query=%22kannan+srinivasan%22+AND+%22sun+microsystems%22">Team&nbsp;Patents&nbsp;­&nbsp;Sun&nbsp;Microsystems&nbsp;­&nbsp;2000­2005</a>
+<strong>Disclosure&nbsp;­&nbsp;Patent&nbsp;Pending&nbsp;(Copyright:&nbsp;Sun&nbsp;Microsystems&nbsp;­&nbsp;2002&nbsp;­&nbsp;Reference&nbsp;Number:&nbsp;P8490)</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/SurvivalIndexBasedTxnTimeoutManager.pdf?attredirects=0">Survival&nbsp;Index&nbsp;Based&nbsp;Transaction&nbsp;Timeout&nbsp;Manager&nbsp;(Java&nbsp;PoC&nbsp;implemented&nbsp;on&nbsp;SunOne­
+iPlanet&nbsp;Application&nbsp;Server&nbsp;6.5&nbsp;J2EE­JTS&nbsp;Transaction&nbsp;Manager&nbsp;­&nbsp;now&nbsp;GlassFish
+­&nbsp;https://github.com/javaee/glassfish/tree/master/appserver)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="http://scholar.google.co.in/citations?user=eLZY7CIAAAAJ&amp;hl=en">Publications&nbsp;(2008­2011)&nbsp;­&nbsp;(CMI­IMSc­IIT,&nbsp;Chennai)&nbsp;guided&nbsp;and&nbsp;reviewed&nbsp;(Google
+Scholar)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/MScThesis-WriteupReport.pdf?attredirects=0">Few&nbsp;Algorithms&nbsp;for&nbsp;Ascertaining&nbsp;Merit&nbsp;Of&nbsp;a&nbsp;Document</a>
+<a class="reference external" href="http://arxiv.org/abs/1006.4458">(Master's&nbsp;thesis)&nbsp;arXiv&nbsp;Link&nbsp;to&nbsp;Few&nbsp;Algorithms&nbsp;for&nbsp;Ascertaining&nbsp;Merit&nbsp;of&nbsp;a&nbsp;Document</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ThesisPresentation2.pdf?attredirects=0">Presentation&nbsp;slides&nbsp;­&nbsp;Few&nbsp;Algorithms&nbsp;for&nbsp;Ascertaining&nbsp;Merit&nbsp;Of&nbsp;a&nbsp;Document</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/TAC2010papersubmission.pdf?attredirects=0">(Published&nbsp;during&nbsp;PhD&nbsp;­&nbsp;October&nbsp;2010)&nbsp;TAC&nbsp;2010&nbsp;dataset&nbsp;evaluation&nbsp;­&nbsp;Update
+summarization&nbsp;with&nbsp;Interview&nbsp;Algorithm&nbsp;(with&nbsp;some&nbsp;updates&nbsp;added&nbsp;to&nbsp;the&nbsp;above)­&nbsp;paper</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/PresentationTAC2010.pdf?attredirects=0">TAC&nbsp;2010&nbsp;dataset&nbsp;evaluation&nbsp;­&nbsp;Update&nbsp;summarization&nbsp;with&nbsp;Interview&nbsp;Algorithm&nbsp;(with&nbsp;some
+updates&nbsp;added&nbsp;to&nbsp;the&nbsp;above)­&nbsp;slides</a>
+<a class="reference external" href="http://www.nist.gov/tac/publications/2010/participant.papers/CMI_IIT.proceedings.pdf">NIST&nbsp;TAC&nbsp;2010&nbsp;link&nbsp;to&nbsp;Update&nbsp;Summarization&nbsp;with&nbsp;Interview&nbsp;Algorithm</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/complementoffunction-writeup.pdf?attredirects=0">Decidability&nbsp;of&nbsp;Existence&nbsp;and&nbsp;Construction&nbsp;of&nbsp;a&nbsp;Complement&nbsp;of&nbsp;a&nbsp;given&nbsp;function&nbsp;</a>
+<a class="reference external" href="http://arxiv.org/abs/1106.4102">arXiv&nbsp;Link&nbsp;to&nbsp;Decidability&nbsp;of&nbsp;Existence&nbsp;and&nbsp;Construction&nbsp;of&nbsp;a&nbsp;Complement&nbsp;of&nbsp;a&nbsp;given
+function</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ComplementOfAFunction_earlier_draft.pdf?attredirects=0">Circuits&nbsp;for&nbsp;Complement&nbsp;of&nbsp;a&nbsp;function&nbsp;­&nbsp;old&nbsp;version</a>
+<strong>NeuronRain&nbsp;Theory&nbsp;Drafts&nbsp;(2003-present)&nbsp;-
+private&nbsp;unaffiliated&nbsp;research&nbsp;-&nbsp;theory&nbsp;aligned&nbsp;to
+features&nbsp;of&nbsp;NeuronRain&nbsp;opensource&nbsp;products</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<strong>Complexity&nbsp;Theoretic&nbsp;Analysis&nbsp;of&nbsp;Non-majority&nbsp;and&nbsp;Majority&nbsp;Social&nbsp;Choice,
+Majority&nbsp;Voting&nbsp;Boolean&nbsp;Composition&nbsp;Circuit&nbsp;and&nbsp;KRW&nbsp;Conjecture,&nbsp;P&nbsp;versus
+NP,&nbsp;ABC&nbsp;Conjecture,&nbsp;Four&nbsp;color&nbsp;Theorem,&nbsp;Zorn&nbsp;Lemma,&nbsp;Axiom&nbsp;of&nbsp;Choice
+(AOC),&nbsp;XOR&nbsp;Lemma&nbsp;and&nbsp;Hardness&nbsp;Amplification,&nbsp;Circuit&nbsp;Lowerbounds,
+Pseudorandomness(generators&nbsp;and&nbsp;extractors),&nbsp;Goodness&nbsp;of&nbsp;Voting&nbsp;and
+Margulis-Russo&nbsp;Threshold/Condorcet&nbsp;Jury&nbsp;Theorem&nbsp;(and&nbsp;its&nbsp;recent&nbsp;versions
+by&nbsp;[Black],&nbsp;[Ladha]),&nbsp;Theoretical&nbsp;Electronic&nbsp;Voting&nbsp;Machines&nbsp;and&nbsp;Pre-poll&nbsp;-
+Post-poll&nbsp;Analytics,&nbsp;Vowelless&nbsp;Syllable&nbsp;Boundary&nbsp;Text&nbsp;Compression&nbsp;and
+Compressed&nbsp;Sensing,&nbsp;Computational&nbsp;Chaos,&nbsp;Polynomial&nbsp;Reconstruction
+Problem,&nbsp;Complement&nbsp;Functions&nbsp;-&nbsp;Complementary&nbsp;Sets&nbsp;and&nbsp;their&nbsp;Function
+Representation(e.g&nbsp;Beatty&nbsp;Functions),&nbsp;Combinatorics&nbsp;(Ramsey&nbsp;coloring&nbsp;of
+sequences),&nbsp;PAC&nbsp;Learning,&nbsp;Prime-Composite&nbsp;complementation&nbsp;and&nbsp;pattern
+in&nbsp;primes,&nbsp;Goldbach&nbsp;Conjecture,&nbsp;Arithmetic&nbsp;Progressions,&nbsp;Diophantine
+Analysis&nbsp;and&nbsp;Representation,&nbsp;Riemann&nbsp;Zeta&nbsp;Function,&nbsp;Hypergeometric
+Functions,&nbsp;Clouds&nbsp;-&nbsp;Logical&nbsp;time&nbsp;and&nbsp;causality(EventNet),&nbsp;Formal&nbsp;Languages
+(Turing&nbsp;degrees,&nbsp;Embedding&nbsp;in&nbsp;vector&nbsp;space,&nbsp;Lambda&nbsp;Calculus,&nbsp;Category
+Theory,&nbsp;Logic)&nbsp;and&nbsp;learning&nbsp;lambda&nbsp;expressions&nbsp;from&nbsp;Natural&nbsp;Language
+Text,&nbsp;Cognitive&nbsp;Psychology&nbsp;-&nbsp;Grounded&nbsp;Cognition&nbsp;and&nbsp;ThoughtNet&nbsp;Evocation,
+Partial&nbsp;order&nbsp;intrinsic&nbsp;merit&nbsp;rankings&nbsp;and&nbsp;Galois&nbsp;connections,&nbsp;Graph
+theoretic/Computational&nbsp;Neurolinguistic/Question-Answering&nbsp;Interview
+Intrinsic&nbsp;Merit/Fitness/Fame&nbsp;and&nbsp;Experiential&nbsp;Learning&nbsp;in&nbsp;the&nbsp;context&nbsp;of
+WWW&nbsp;(people,&nbsp;text,&nbsp;audio&nbsp;-&nbsp;speech&nbsp;and&nbsp;music,&nbsp;visuals-video&nbsp;and&nbsp;images,
+economies)&nbsp;and&nbsp;Social/Economic&nbsp;networks,&nbsp;Social&nbsp;Network&nbsp;Models&nbsp;-
+Cellular&nbsp;Automaton&nbsp;and&nbsp;Random&nbsp;Graph&nbsp;Diffusion&nbsp;of&nbsp;Concepts-Memes-Fads-
+Cybercrimes,&nbsp;Game&nbsp;Theory,&nbsp;BKS&nbsp;Conjecture&nbsp;and&nbsp;Question-Answering,
+Machine&nbsp;Translation,&nbsp;Algorithmic&nbsp;Graph&nbsp;Theoretic&nbsp;Learning&nbsp;Models,
+Computational&nbsp;Learning&nbsp;Theory,&nbsp;Software&nbsp;Analytics/Program
+Analysis/Debug&nbsp;Analytics,&nbsp;Operating&nbsp;System&nbsp;Kernel&nbsp;and&nbsp;Scheduler
+Analytics,&nbsp;Astronomical&nbsp;Analytics&nbsp;of&nbsp;Celestial&nbsp;Bodies&nbsp;and&nbsp;correlations&nbsp;to
+Seismic-Atmospheric-Oceanic&nbsp;events,&nbsp;Urban&nbsp;planning&nbsp;analytics,</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<strong>Computational&nbsp;Astrophysics&nbsp;-&nbsp;N-body&nbsp;problem,&nbsp;Media&nbsp;Analytics&nbsp;and
+Advertisement&nbsp;Analytics,&nbsp;Preferential&nbsp;Attachment,&nbsp;Brand&nbsp;Loyalty&nbsp;and
+Business&nbsp;Intelligence,&nbsp;People&nbsp;Analytics/HR&nbsp;Analytics,&nbsp;Sports
+Analytics,&nbsp;Handwriting&nbsp;and&nbsp;Face&nbsp;Recognition&nbsp;for&nbsp;unique
+identification,&nbsp;Fame/Merit&nbsp;Equilibrium&nbsp;(Welfare&nbsp;Functions,&nbsp;Flow&nbsp;Market
+Equilibrium&nbsp;and&nbsp;&nbsp;Convex-Concave&nbsp;Programming&nbsp;in&nbsp;Algorithmic&nbsp;Economics
+applied&nbsp;to&nbsp;Fame-Merit)&nbsp;and&nbsp;Economic&nbsp;Merit(Intrinsic
+pricing),Cryptocurrencies&nbsp;and&nbsp;Money&nbsp;Trail&nbsp;(EventNet&nbsp;Graph),Optimal
+Denomination&nbsp;and&nbsp;Money&nbsp;Changing&nbsp;-&nbsp;Coin&nbsp;Problem,Mechanism&nbsp;Design,&nbsp;Time
+series&nbsp;analysis&nbsp;(economic&nbsp;and&nbsp;weather&nbsp;forecasts),&nbsp;Neural&nbsp;Networks&nbsp;and
+Deep&nbsp;Learning,&nbsp;Quantum&nbsp;mechanics&nbsp;and&nbsp;Intrinsic&nbsp;Fitness/Merit(Bose-
+Einstein&nbsp;condensation&nbsp;in&nbsp;networks),&nbsp;Locality&nbsp;Sensitive&nbsp;Hashing&nbsp;and
+Separate&nbsp;Chaining&nbsp;Hash&nbsp;tables,&nbsp;Multiple&nbsp;Agent&nbsp;Resource&nbsp;Allocation,&nbsp;Integer
+Partitions(additive&nbsp;and&nbsp;multiplicative),&nbsp;Set&nbsp;Partitions,&nbsp;Space
+filling/Lagrangian&nbsp;Four&nbsp;Square&nbsp;Theorem&nbsp;Tiling/Circle&nbsp;Packing,&nbsp;Exact&nbsp;Cover,
+Random&nbsp;Closed&nbsp;Packing,&nbsp;Number&nbsp;Theory,&nbsp;Quadratic&nbsp;and&nbsp;Linear
+Programming,&nbsp;Cellular&nbsp;Automata,&nbsp;Satisfiability&nbsp;(Least&nbsp;Square&nbsp;SAT&nbsp;Solvers
+and&nbsp;QBFSAT),&nbsp;Random&nbsp;restrictions&nbsp;and&nbsp;Hastad&nbsp;Switching&nbsp;Lemma,&nbsp;Classical
+NC-PRAM-BSP&nbsp;(k-mergesort,&nbsp;segment&nbsp;tree,&nbsp;wavelet&nbsp;tree,&nbsp;ray&nbsp;shooting
+queries,&nbsp;planar&nbsp;point&nbsp;location,&nbsp;sorting&nbsp;networks,local&nbsp;search&nbsp;of&nbsp;rasterized
+hyperbolic&nbsp;segment&nbsp;arithmetic&nbsp;progressions),&nbsp;Randomized&nbsp;NC&nbsp;and&nbsp;Quantum
+NC&nbsp;Computational&nbsp;Geometric&nbsp;Integer&nbsp;Factoring,&nbsp;Rasterization&nbsp;of&nbsp;Algebraic
+Curves,&nbsp;Algebraic&nbsp;Geometry,&nbsp;Knot&nbsp;Theory,&nbsp;Topology&nbsp;and&nbsp;Connections
+amongst&nbsp;them&nbsp;-
+(most&nbsp;recent&nbsp;draft&nbsp;updates&nbsp;to&nbsp;all&nbsp;publications&nbsp;previously&nbsp;and&nbsp;earlier&nbsp;drafts&nbsp;below&nbsp;-&nbsp;in&nbsp;text
+format&nbsp;-&nbsp;nonlinear&nbsp;theoretical&nbsp;writeups&nbsp;interspersed&nbsp;between&nbsp;NeuronRain&nbsp;code&nbsp;commits&nbsp;in
+SourceForge,&nbsp;GitLab&nbsp;and&nbsp;GitHub&nbsp;-&nbsp;links&nbsp;to&nbsp;relevant&nbsp;feature&nbsp;implementations&nbsp;and&nbsp;theory&nbsp;drafts
+in&nbsp;design&nbsp;notes&nbsp;of&nbsp;NeuronRain&nbsp;repositories&nbsp;-
+AstroInfer,USBmd,VIRGO,KingCobra,GRAFIT,Krishna_iResearch_Doxygen_Docs,Acadpdrafts):</strong>
+<a class="reference external" href="https://github.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/blob/master/index.rst">Krishna_iResearch_DoxygenDocs&nbsp;&nbsp;(GitHub)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a href="#system-message-3"><span class="problematic" id="problematic-3">`</span></a>Krishna_iResearch_DoxygenDocs&nbsp;(GitLab)</p>
+<div class="system-message" id="system-message-3">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 218); <em><a href="#problematic-3">backlink</a></em></p>
+Inline interpreted text or phrase reference start-string without end-string.</div>
+<div class="system-message">
+<p class="system-message-title">System Message: ERROR/3 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 220)</p>
+Unexpected indentation.</div>
+<blockquote>
+&lt;<a class="reference external" href="https://gitlab.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/-/blob/b848a7e8c07ad5084594baca2e5251b0f93d9f23/index.rst">https://gitlab.com/shrinivaasanka/Krishna_iResearch_DoxygenDocs/-/blob/b848a7e8c07ad5084594baca2e5251b0f93d9f23/index.rst</a>&gt;`__<a class="reference external" href="https://sourceforge.net/u/ka_shrinivaasan/Krishna_iResearch_DoxygenDocs/ci/master/tree/index.rst">Krishna_iResearch_DoxygenDocs&nbsp;(SourceForge)</a></blockquote>
+<div class="system-message">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 221)</p>
+Block quote ends without a blank line; unexpected unindent.</div>
+<p><strong>Earlier&nbsp;Publication&nbsp;Drafts&nbsp;(2012&nbsp;-&nbsp;present)&nbsp;-&nbsp;unaffiliated&nbsp;private
+theoretical&nbsp;research&nbsp;-&nbsp;unguided&nbsp;and&nbsp;unreviewed</strong>
+<strong>Earlier&nbsp;Publication&nbsp;Drafts&nbsp;(PDF):</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/IntegerPartitionAndHashFunctions.pdf?attredirects=0">Integer&nbsp;Partitions&nbsp;and&nbsp;Hash&nbsp;functions&nbsp;</a><a class="reference external" href="https://sites.google.com/site/kuja27/IntegerPartitionAndHashFunctions.tex?attredirects=0">(in&nbsp;Tex)</a>**&nbsp;-&nbsp;2012&nbsp;**
+<a class="reference external" href="https://sites.google.com/site/kuja27/InterviewAlgorithmInPSPACE.pdf?attredirects=0">Interview&nbsp;Algorithm&nbsp;is&nbsp;in&nbsp;IP=PSPACE&nbsp;</a><a class="reference external" href="https://sites.google.com/site/kuja27/InterviewAlgorithmInPSPACE.tex?attredirects=0">(in&nbsp;Tex</a><strong>)&nbsp;­&nbsp;2012</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/UndecidabilityOfFewNonTrivialQuestions.pdf?attredirects=0">Few&nbsp;Non­trivial&nbsp;Questions&nbsp;and&nbsp;Shell&nbsp;Turing&nbsp;Machines&nbsp;(in&nbsp;Tex)&nbsp;­&nbsp;2012</a>
+<strong>Complexity&nbsp;aspects&nbsp;of&nbsp;Non­majority&nbsp;and&nbsp;Majority&nbsp;Social&nbsp;Choice,&nbsp;Hash&nbsp;Functions,&nbsp;Integer
+Partitions,&nbsp;Graph&nbsp;theoretic&nbsp;Document&nbsp;summarization&nbsp;etc.,:</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/CircuitsForDemocracyAndPseudorandomChoice_and_PVsNP.pdf?attredirects=0&amp;d=1">Arrow’s&nbsp;Theorem,&nbsp;Circuit&nbsp;For&nbsp;Democracy&nbsp;and&nbsp;Pseudorandom&nbsp;Choice&nbsp;and&nbsp;P&nbsp;Versus&nbsp;NP&nbsp;­
+(Draft&nbsp;­&nbsp;17&nbsp;September&nbsp;2014&nbsp;)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DocumentSummarization_using_SpectralGraphTheory_RGOGraph_2014.pdf?attredirects=0&amp;d=1">Document&nbsp;Summarization&nbsp;from&nbsp;WordNet&nbsp;Subgraph&nbsp;obtained&nbsp;by&nbsp;Recursive&nbsp;Gloss&nbsp;Overlap&nbsp;(
+Draft&nbsp;&nbsp;­&nbsp;25&nbsp;July&nbsp;2014&nbsp;)&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/IntegerPartitionAndHashFunctions_2014.pdf?attredirects=0&amp;d=1">Integer&nbsp;Partitions&nbsp;and&nbsp;Hash&nbsp;Functions&nbsp;(new&nbsp;version&nbsp;­&nbsp;5&nbsp;April&nbsp;2014&nbsp;and&nbsp;17&nbsp;April&nbsp;2014)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/LowerBoundsForMajorityVotingPseudorandomChoice.pdf?attredirects=0">Lower&nbsp;Bounds&nbsp;for&nbsp;Majority&nbsp;Voting&nbsp;and&nbsp;Pseudorandom&nbsp;choice&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="https://sites.google.com/site/kuja27/CircuitForComputingErrorProbabilityOfMajorityVoting_2014.pdf?attredirects=0&amp;d=1">Circuits&nbsp;For&nbsp;Computing&nbsp;Error&nbsp;Probability&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;(new&nbsp;version&nbsp;­&nbsp;10&nbsp;April&nbsp;2014)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/CircuitForComputingErrorProbabilityOfMajorityVoting.pdf?attredirects=0">Circuits&nbsp;For&nbsp;Computing&nbsp;Error&nbsp;Probability&nbsp;of&nbsp;Majority&nbsp;Voting</a>**&nbsp;(old&nbsp;version&nbsp;­&nbsp;March&nbsp;2013)**
+<a class="reference external" href="https://sites.google.com/site/kuja27/IndepthAnalysisOfVariantOfMajorityVotingwithZFAOC_2014.pdf?attredirects=0">In­depth&nbsp;Analysis&nbsp;of&nbsp;a&nbsp;Variant&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;with&nbsp;relation&nbsp;to&nbsp;ZFC&nbsp;­&nbsp;updated&nbsp;draft&nbsp;</a><strong>(new
+version&nbsp;­&nbsp;8&nbsp;February&nbsp;2014)</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/IndepthAnalysisOfVariantOfMajorityVotingwithZFAOC.pdf?attredirects=0">In­depth&nbsp;Analysis&nbsp;of&nbsp;a&nbsp;Variant&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;with&nbsp;relation&nbsp;to&nbsp;ZFC&nbsp;</a><strong>(old&nbsp;version&nbsp;­&nbsp;8&nbsp;March
+2013)</strong>
+<strong>Parallel&nbsp;PRG&nbsp;and&nbsp;Space&nbsp;Filling:</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ChaoticPRG.pdf?attredirects=0">A&nbsp;Chaos&nbsp;theoretic&nbsp;Parallel&nbsp;Pseudorandom&nbsp;generator&nbsp;in&nbsp;RNC&nbsp;For&nbsp;Majority&nbsp;Voting&nbsp;and
+Pseudorandom&nbsp;Choice&nbsp;</a>
+<a class="reference external" href="http://sourceforge.net/p/asfer/code/HEAD/tree/asfer-docs/AstroInferDesign.txt">Analysis&nbsp;of&nbsp;a&nbsp;Randomized&nbsp;Space&nbsp;Filling&nbsp;Algorithm&nbsp;and&nbsp;its&nbsp;Linear&nbsp;Program&nbsp;Formulation&nbsp;­
+updated&nbsp;draft&nbsp;additions&nbsp;for&nbsp;Cellular&nbsp;Automaton&nbsp;Algorithm,&nbsp;NC&nbsp;circuit&nbsp;construction&nbsp;for&nbsp;it&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/Analysis%20of%20a%20Randomized%20Space%20Filling%20Algorithm%20and%20its%20Linear%20Program%20Formulation.pdf?attredirects=0">Analysis&nbsp;of&nbsp;a&nbsp;Randomized&nbsp;Space&nbsp;Filling&nbsp;Algorithm&nbsp;and&nbsp;its&nbsp;Linear&nbsp;Program
+Formulation&nbsp;(previous&nbsp;version)</a>
+<strong>Discrete&nbsp;Hyperbolic&nbsp;Factorization&nbsp;­&nbsp;previous&nbsp;versions:</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization.pdf?attredirects=0&amp;d=1">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;</a><strong>(Version&nbsp;1)</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_interpolation_search.pdf?attredirects=0&amp;d=1">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;with&nbsp;Interpolation
+Search&nbsp;(Version&nbsp;2&nbsp;­&nbsp;updated&nbsp;25&nbsp;June&nbsp;2013)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="https://sites.google.com/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_interpolation_search_30June2013.pdf?attredirects=0&amp;d=1">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;with&nbsp;Interpolation
+Search&nbsp;(Version&nbsp;3&nbsp;­&nbsp;updated&nbsp;30&nbsp;June&nbsp;2013&nbsp;with&nbsp;rough&nbsp;notes)&nbsp;</a>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_interpolation_search.pdf/download">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;with&nbsp;Interpolation
+Search&nbsp;(version&nbsp;4&nbsp;­&nbsp;updated&nbsp;1&nbsp;July&nbsp;2013&nbsp;and&nbsp;Version&nbsp;5&nbsp;­&nbsp;updated&nbsp;20&nbsp;July&nbsp;2013&nbsp;including&nbsp;</a><strong>all
+handwritten&nbsp;notes)</strong>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_rectangular_interpolation_search.pdf/download">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;using&nbsp;Rectangular
+Binary&nbsp;(or)&nbsp;Interpolation&nbsp;Search&nbsp;(version&nbsp;12&nbsp;­&nbsp;updated&nbsp;25&nbsp;August&nbsp;2013)&nbsp;</a>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicFactorization_UpperboundDerivedWithStirlingFormula_2013-09-10.pdf/download">Informal&nbsp;Notes&nbsp;on&nbsp;Derivation&nbsp;of&nbsp;Upperbound&nbsp;for&nbsp;Discrete&nbsp;Hyperbolic&nbsp;Factorization&nbsp;with
+Stirling&nbsp;Formula&nbsp;­&nbsp;using&nbsp;Rectangular&nbsp;Binary&nbsp;or&nbsp;Interpolation&nbsp;Search&nbsp;(10&nbsp;September&nbsp;2013)&nbsp;</a>**&nbsp;**
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_rectangular_interpolation_search_and_StirlingFormula_Upperbound.pdf/download">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;using&nbsp;Rectangular
+Binary&nbsp;(or)&nbsp;Interpolation&nbsp;Search&nbsp;applying&nbsp;Stirling&nbsp;Formula&nbsp;(Version&nbsp;14&nbsp;­&nbsp;20&nbsp;September
+2013)&nbsp;</a>
+<a href="#system-message-4"><span class="problematic" id="problematic-4">**</span></a>Discrete&nbsp;Hyperbolic&nbsp;Factorization&nbsp;­&nbsp;Parallel&nbsp;RAM&nbsp;algorithm:
+<a href="#system-message-5"><span class="problematic" id="problematic-5">**</span></a><a href="#system-message-6"><span class="problematic" id="problematic-6">`</span></a>An&nbsp;NC&nbsp;algorithm&nbsp;and&nbsp;some&nbsp;Sequential&nbsp;Search&nbsp;Algorithms&nbsp;for&nbsp;Discrete&nbsp;Hyperbolic
+Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Factorization&nbsp;using&nbsp;Binary&nbsp;or&nbsp;Interpolation&nbsp;Search&nbsp;with&nbsp;Stirling
+Formula&nbsp;and&nbsp;Logarithmic&nbsp;Sorted&nbsp;Tile&nbsp;Merge&nbsp;in&nbsp;PRAM&nbsp;model&nbsp;(20&nbsp;November&nbsp;2013)&nbsp;and</p>
+<div class="system-message" id="system-message-4">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 261); <em><a href="#problematic-4">backlink</a></em></p>
+Inline strong start-string without end-string.</div>
+<div class="system-message" id="system-message-5">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 261); <em><a href="#problematic-5">backlink</a></em></p>
+Inline strong start-string without end-string.</div>
+<div class="system-message" id="system-message-6">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 261); <em><a href="#problematic-6">backlink</a></em></p>
+Inline interpreted text or phrase reference start-string without end-string.</div>
+<div class="system-message">
+<p class="system-message-title">System Message: ERROR/3 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 278)</p>
+Unexpected indentation.</div>
+<blockquote>
+&lt;<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.pdf/download">http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.pdf/download</a>&gt;`__<a class="reference external" href="http://sourceforge.net/p/asfer/code/HEAD/tree/ImplementationDesignNotesForDiscreteHyperbolicFactorizationInPRAM.jpg">AsFer&nbsp;PRAM&nbsp;implementation&nbsp;design&nbsp;notes&nbsp;with&nbsp;tile&nbsp;id(s)&nbsp;(21&nbsp;November&nbsp;2013)</a></blockquote>
+<div class="system-message">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/media/ksrinivasan/84f7d6fd-3d43-4215-8dcc-52b5fe1bffc6/home/ksrinivasan/Krishna_iResearch_OpenSource_wc1/GitHub/acadpdrafts-github-code/kuja27_readthedocs/index.rst</tt>, line 279)</p>
+Block quote ends without a blank line; unexpected unindent.</div>
+<p><a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound_updateddraft.pdf/download">An&nbsp;NC&nbsp;algorithm&nbsp;and&nbsp;some&nbsp;Sequential&nbsp;Search&nbsp;Algorithms&nbsp;for&nbsp;Discrete&nbsp;Hyperbolic
+Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Factorization&nbsp;using&nbsp;Binary&nbsp;or&nbsp;Interpolation&nbsp;Search&nbsp;with&nbsp;Stirling
+Formula&nbsp;and&nbsp;Logarithmic&nbsp;Sorted&nbsp;Tile&nbsp;Merge&nbsp;in&nbsp;PRAM&nbsp;model&nbsp;­&nbsp;updated&nbsp;draft&nbsp;with&nbsp;PRAM&nbsp;to
+NC&nbsp;reduction&nbsp;and&nbsp;input&nbsp;size&nbsp;details&nbsp;and&nbsp;references&nbsp;(25&nbsp;September&nbsp;2014)</a>
+<strong>Miscellaneous&nbsp;Informal&nbsp;Notes&nbsp;related&nbsp;to&nbsp;above&nbsp;drafts&nbsp;(Handwritten)&nbsp;(Note:&nbsp;these&nbsp;are&nbsp;not&nbsp;in</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<strong>any&nbsp;structured&nbsp;format&nbsp;and&nbsp;might&nbsp;have&nbsp;typos&nbsp;and&nbsp;errors)</strong>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/ImplicationGraphsPGoodEquationAndPNotEqualToNPQuestion_excerpts.pdf/download">Implication&nbsp;Graphs,&nbsp;Error&nbsp;probability&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;and&nbsp;P&nbsp;Versus&nbsp;NP&nbsp;Question&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/NotesOnConceptHypergraphHMM_and_ImplicationGraphConvexHulls_2013-12-30.pdf?attredirects=0&amp;d=1">Minimum&nbsp;Convex&nbsp;Hulls&nbsp;of&nbsp;Implication&nbsp;Graphs&nbsp;and&nbsp;Hidden&nbsp;Markov&nbsp;Model&nbsp;on&nbsp;class&nbsp;nodes&nbsp;of
+Concept&nbsp;Hypergraph&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ImplicationRandomGraphConvexHullsAndPerfectVoterProblem_2014-01-11.pdf?attredirects=0&amp;d=1">Minimum&nbsp;Convex&nbsp;Hulls&nbsp;of&nbsp;Implication&nbsp;Random&nbsp;Growth&nbsp;Networks&nbsp;and&nbsp;Perfect&nbsp;Voter
+Decidability</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/PhilosophicalAnalysisOfDemocracyCircuitAndPRGChoice_2014-03-26.pdf?attredirects=0">Philosophical&nbsp;Analysis&nbsp;of&nbsp;Democracy&nbsp;Circuit&nbsp;and&nbsp;Pseudorandom&nbsp;Choice</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/SchurTheoremMCPAndDistinctPartitions_2014-04-17.pdf?attredirects=0">Schur's&nbsp;Theorem,&nbsp;Restricted&nbsp;Partitions&nbsp;with&nbsp;distinct&nbsp;parts&nbsp;and&nbsp;Hash&nbsp;Table&nbsp;Collision&nbsp;Chains</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/RamanujanGraphsRiemannZetaFunctionAndIharaZetaFunction.pdf?attredirects=0&amp;d=1">Riemann&nbsp;Zeta&nbsp;Function,&nbsp;Ramanujan&nbsp;Graphs&nbsp;and&nbsp;Ihara&nbsp;Zeta&nbsp;Function</a>**&nbsp;­&nbsp;(30&nbsp;August&nbsp;2014)**
+<a class="reference external" href="https://sites.google.com/site/kuja27/RZFAndIZF_25October2014.pdf?attredirects=0&amp;d=1">Riemann&nbsp;Zeta&nbsp;Function,&nbsp;Ramanujan&nbsp;Graphs&nbsp;and&nbsp;Ihara&nbsp;Zeta&nbsp;Function</a>**&nbsp;­&nbsp;(25&nbsp;October&nbsp;2014)**
+<a class="reference external" href="http://sourceforge.net/p/asfer/code/568/tree/python-src/ComplFunction_DHF_PVsNP_Misc_Notes.pdf">Miscellaneous&nbsp;notes&nbsp;on&nbsp;Krishna&nbsp;iResearch&nbsp;Open&nbsp;Source&nbsp;products&nbsp;design,&nbsp;Democracy
+Circuit,&nbsp;Complement&nbsp;Function&nbsp;circuit&nbsp;and&nbsp;Parallel&nbsp;RAM&nbsp;to&nbsp;NC&nbsp;reduction&nbsp;for&nbsp;ANSV
+algorithm&nbsp;in&nbsp;Discrete&nbsp;Hyperbolic&nbsp;Factorization&nbsp;­&nbsp;(6&nbsp;January&nbsp;2015)</a>
+<strong>Earlier&nbsp;Publication&nbsp;Drafts&nbsp;(TeX):</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/CircuitsForDemocracyAndPseudorandomChoice_and_PVsNP.tex?attredirects=0&amp;d=1">Arrow’s&nbsp;Theorem,&nbsp;Circuit&nbsp;For&nbsp;Democracy&nbsp;and&nbsp;Pseudorandom&nbsp;Choice&nbsp;and&nbsp;P&nbsp;Versus&nbsp;NP&nbsp;­
+(Draft&nbsp;­&nbsp;17&nbsp;September&nbsp;2014&nbsp;)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DocumentSummarization_using_SpectralGraphTheory_RGOGraph_2014.tex?attredirects=0&amp;d=1">Document&nbsp;Summarization&nbsp;from&nbsp;WordNet&nbsp;Subgraph&nbsp;obtained&nbsp;by&nbsp;Recursive&nbsp;Gloss&nbsp;Overlap&nbsp;(</a>
+<a class="reference external" href="https://sites.google.com/site/">https://sites.google.com/site/</a><a class="reference external" href="https://sites.google.com/site/kuja27/DocumentSummarization_using_SpectralGraphTheory_RGOGraph_2014.tex?attredirects=0&amp;d=1">kuja27/</a></p>
+<hr class="docutils" />
+<p><a class="reference external" href="https://sites.google.com/site/kuja27/DocumentSummarization_using_SpectralGraphTheory_RGOGraph_2014.tex?attredirects=0&amp;d=1">Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DocumentSummarization_using_SpectralGraphTheory_RGOGraph_2014.tex?attredirects=0&amp;d=1">Draft&nbsp;&nbsp;­&nbsp;25&nbsp;July&nbsp;2014&nbsp;)&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/IntegerPartitionAndHashFunctions_2014.tex?attredirects=0&amp;d=1">Integer&nbsp;Partitions&nbsp;and&nbsp;Hash&nbsp;Functions&nbsp;(new&nbsp;version&nbsp;­&nbsp;5&nbsp;April&nbsp;2014&nbsp;and&nbsp;17&nbsp;April&nbsp;2014)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/LowerBoundsForMajorityVotingPseudorandomChoice.tex?attredirects=0">Lower&nbsp;Bounds&nbsp;for&nbsp;Majority&nbsp;Voting&nbsp;and&nbsp;Pseudorandom&nbsp;choice</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/CircuitForComputingErrorProbabilityOfMajorityVoting_2014.tex?attredirects=0&amp;d=1">Circuits&nbsp;for&nbsp;Computing&nbsp;Error&nbsp;Probability&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;(new&nbsp;version&nbsp;­&nbsp;10&nbsp;April&nbsp;2014)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/CircuitForComputingErrorProbabilityOfMajorityVoting.tex?attredirects=0">Circuits&nbsp;For&nbsp;Computing&nbsp;Error&nbsp;Probability&nbsp;of&nbsp;Majority&nbsp;Voting</a>**&nbsp;(old&nbsp;version&nbsp;­&nbsp;March&nbsp;2013)**
+<a class="reference external" href="https://sites.google.com/site/kuja27/IndepthAnalysisOfVariantOfMajorityVotingwithZFAOC_2014.tex?attredirects=0">In­depth&nbsp;Analysis&nbsp;of&nbsp;a&nbsp;Variant&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;with&nbsp;relation&nbsp;to&nbsp;ZFC&nbsp;­&nbsp;updated&nbsp;draft&nbsp;</a><strong>(new
+version&nbsp;­&nbsp;8&nbsp;February&nbsp;2014)</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/IndepthAnalysisOfVariantOfMajorityVotingwithZFAOC.tex?attredirects=0">In­depth&nbsp;Analysis&nbsp;of&nbsp;a&nbsp;Variant&nbsp;of&nbsp;Majority&nbsp;Voting&nbsp;with&nbsp;relation&nbsp;to&nbsp;ZFC&nbsp;</a><strong>(old&nbsp;version&nbsp;­&nbsp;8&nbsp;March
+2013)</strong>
+<strong>Parallel&nbsp;PRG&nbsp;and&nbsp;Space&nbsp;Filling:</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/ChaoticPRG.tex?attredirects=0">A&nbsp;Chaos&nbsp;theoretic&nbsp;Parallel&nbsp;Pseudorandom&nbsp;generator&nbsp;in&nbsp;RNC&nbsp;For&nbsp;Majority&nbsp;Voting&nbsp;and
+Pseudorandom&nbsp;Choice</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/Analysis%20of%20a%20Randomized%20Space%20Filling%20Algorithm%20and%20its%20Linear%20Program%20Formulation.tex?attredirects=0">Analysis&nbsp;of&nbsp;a&nbsp;Randomized&nbsp;Space&nbsp;Filling&nbsp;Algorithm&nbsp;and&nbsp;its&nbsp;Linear&nbsp;Program&nbsp;Formulation</a>
+<strong>Discrete&nbsp;Hyperbolic&nbsp;Factorization&nbsp;­&nbsp;previous&nbsp;versions:</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization.tex?attredirects=0&amp;d=1">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;</a><strong>(Version&nbsp;1)</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_interpolation_search.tex?attredirects=0&amp;d=1">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;with&nbsp;Interpolation
+Search&nbsp;(Version&nbsp;2&nbsp;­&nbsp;updated&nbsp;25&nbsp;June&nbsp;2013)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="https://sites.google.com/site/kuja27/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_interpolation_search_30June2013.tex?attredirects=0&amp;d=1">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;with&nbsp;Interpolation
+Search&nbsp;(Version&nbsp;3&nbsp;­&nbsp;updated&nbsp;30&nbsp;June&nbsp;2013)</a>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_interpolation_search.tex/download">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;with&nbsp;Interpolation
+Search&nbsp;(Version&nbsp;4&nbsp;­&nbsp;updated&nbsp;1&nbsp;July&nbsp;2013&nbsp;and&nbsp;Version&nbsp;5&nbsp;­&nbsp;updated&nbsp;20&nbsp;July&nbsp;2013&nbsp;including</a>**&nbsp;all
+handwritten&nbsp;notes)**
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_rectangular_interpolation_search.tex/download">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;using&nbsp;Rectangular
+Binary&nbsp;(or)&nbsp;Interpolation&nbsp;Search&nbsp;(Latest&nbsp;­&nbsp;version&nbsp;12&nbsp;­&nbsp;updated&nbsp;25&nbsp;August&nbsp;2013)</a>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_updated_rectangular_interpolation_search_and_StirlingFormula_Upperbound.tex/download">Discrete&nbsp;Hyperbolic&nbsp;Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Integer&nbsp;Factorization&nbsp;­&nbsp;using&nbsp;Rectangular
+Binary&nbsp;(or)&nbsp;Interpolation&nbsp;Search&nbsp;applying&nbsp;Stirling&nbsp;Formula&nbsp;(20&nbsp;September&nbsp;2013)</a>
+<strong>Discrete&nbsp;Hyperbolic&nbsp;Factorization&nbsp;­&nbsp;Parallel&nbsp;RAM&nbsp;algorithm:
+**`An&nbsp;NC&nbsp;algorithm&nbsp;and&nbsp;some&nbsp;Sequential&nbsp;Search&nbsp;Algorithms&nbsp;for&nbsp;Discrete&nbsp;Hyperbolic
+Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Factorization&nbsp;using&nbsp;Binary&nbsp;or&nbsp;Interpolation&nbsp;Search&nbsp;with&nbsp;Stirling
+Formula&nbsp;and&nbsp;Logarithmic&nbsp;Sorted&nbsp;Tile&nbsp;Merge&nbsp;in&nbsp;PRAM&nbsp;model&nbsp;(20&nbsp;November&nbsp;2013) &lt;http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound.tex/download&gt;`__
+`An&nbsp;NC&nbsp;algorithm&nbsp;and&nbsp;some&nbsp;Sequential&nbsp;Search&nbsp;Algorithms&nbsp;for&nbsp;Discrete&nbsp;Hyperbolic
+Polylogarithmic&nbsp;Sieve&nbsp;For&nbsp;Factorization&nbsp;using&nbsp;Binary&nbsp;or&nbsp;Interpolation&nbsp;Search&nbsp;with&nbsp;Stirling
+Formula&nbsp;and&nbsp;Logarithmic&nbsp;Sorted&nbsp;Tile&nbsp;Merge&nbsp;in&nbsp;PRAM&nbsp;model&nbsp;­&nbsp;updated&nbsp;draft&nbsp;with&nbsp;PRAM&nbsp;to
+NC&nbsp;reduction&nbsp;and&nbsp;input&nbsp;size&nbsp;details&nbsp;and&nbsp;references&nbsp;(25&nbsp;September&nbsp;2014) &lt;http://sourceforge.net/projects/acadpdrafts/files/DiscreteHyperbolicPolylogarithmicSieveForIntegerFactorization_PRAM_TileMergeAndSearch_And_Stirling_Upperbound_updateddraft.tex/download&gt;`__
+**Blogs</strong>
+<a class="reference external" href="https://kuja27.blogspot.in/">HAMSA</a>**&nbsp;(Computer&nbsp;Science&nbsp;­&nbsp;Machine&nbsp;Learning&nbsp;etc.,&nbsp;­&nbsp;complements**`&nbsp;GRAFIT &lt;<a class="reference external" href="https://github.com/shrinivaasanka/Grafit">https://github.com/shrinivaasanka/Grafit</a>&gt;`__**&nbsp;course
+material)**
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="https://varahamihira.wordpress.com/">VARAHAMIHIRA&nbsp;</a><strong>(Astronomy,&nbsp;Sanskrit&nbsp;etc.,)</strong>
+<strong>Alumni&nbsp;Profiles</strong>
+<a class="reference external" href="https://www.cmi.ac.in/people/alumni-profile.php?id=shrinivas">CMI&nbsp;Alumnus&nbsp;page&nbsp;</a><strong>(2010­)</strong>
+<a class="reference external" href="http://www.cmi.ac.in/people/fac-profile.php?id=shrinivas">CMI&nbsp;Research&nbsp;Scholar&nbsp;Alumnus&nbsp;Page&nbsp;</a><strong>(2010­2011)&nbsp;[&nbsp;no&nbsp;JRF/academic&nbsp;or&nbsp;industry&nbsp;affiliation
+at&nbsp;present&nbsp;­&nbsp;doing&nbsp;private&nbsp;research]</strong>
+<a class="reference external" href="http://alumni.psgtech.ac.in/profile/view/srinivasan-kannan-1">PSG&nbsp;Tech&nbsp;Alumnus&nbsp;Page&nbsp;(1999­)</a>
+<strong>Personal&nbsp;Memorabilia&nbsp;and&nbsp;selected&nbsp;photos</strong>
+<a class="reference external" href="http://sourceforge.net/projects/acadpdrafts/files/NewPassportBookletScanned_M9583737.pdf/download">Passport&nbsp;(May&nbsp;2015)&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/DSC00388.JPG?attredirects=0">At&nbsp;Mahabalipuram&nbsp;­&nbsp;September&nbsp;2012&nbsp;</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/home/DSC00689.JPG?attredirects=0">View&nbsp;of&nbsp;SIPCOT&nbsp;TCS&nbsp;from&nbsp;CMI&nbsp;in&nbsp;twilight&nbsp;­&nbsp;August&nbsp;2010</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/iplanetsunmicrosystems2000groupphoto.jpeg?attredirects=0">Sun&nbsp;Microsystems&nbsp;group&nbsp;photo&nbsp;1&nbsp;(2000)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/SunMicrosystems1_30July2004.jpg?attredirects=0">Sun&nbsp;Microsystems&nbsp;2&nbsp;(2004)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/SunMicrosystems2_30July2004.jpg?attredirects=0">Sun&nbsp;Microsystems&nbsp;3&nbsp;(2004)</a>
+<a class="reference external" href="https://sourceforge.net/projects/acadpdrafts/files/Excerpts_Of_PSG_BE_FinalProject_COBRA_done_in_1999.pdf/download">COBRA&nbsp;(a&nbsp;not­so­naive&nbsp;cloud&nbsp;precursor&nbsp;implemented&nbsp;during&nbsp;BE&nbsp;in&nbsp;1999&nbsp;on&nbsp;CORBA)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+<p>Srinivasan&nbsp;Kannan&nbsp;(alias)&nbsp;Shrinivaasan&nbsp;Ka&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan
+<a class="reference external" href="http://www.angelfire.com/id/95cse/album.html">PSG&nbsp;Tech&nbsp;Photos&nbsp;(1995­1999)</a>
+<a class="reference external" href="https://sites.google.com/site/kuja27/NewPassportApplication_OldPassportVisa1.jpg?attredirects=0">Past&nbsp;photos&nbsp;­&nbsp;1&nbsp;</a><strong>(2003)</strong>
+<a class="reference external" href="https://sites.google.com/site/kuja27/NewPassportApplication_OldPassportVisa2.jpg?attredirects=0">Past&nbsp;photos&nbsp;­&nbsp;2&nbsp;</a><strong>(2003)</strong>
+STATUTORY&nbsp;DISCLAIMER:This&nbsp;website&nbsp;contains&nbsp;publications&nbsp;and&nbsp;articles&nbsp;devoted&nbsp;to&nbsp;multi-disciplinary
+fundamental&nbsp;research&nbsp;&nbsp;only.&nbsp;Any&nbsp;misinterpretation&nbsp;with&nbsp;malafide&nbsp;intent&nbsp;or&nbsp;defacing/hacking&nbsp;or&nbsp;any
+other&nbsp;form&nbsp;of&nbsp;cybercrime&nbsp;on&nbsp;contents&nbsp;of&nbsp;this&nbsp;website&nbsp;will&nbsp;be&nbsp;reported&nbsp;and&nbsp;severely&nbsp;dealt&nbsp;with&nbsp;as&nbsp;the
+case&nbsp;may&nbsp;be.&nbsp;Earlier&nbsp;such&nbsp;incidents&nbsp;have&nbsp;already&nbsp;been&nbsp;reported&nbsp;few&nbsp;years&nbsp;ag<a class="reference external" href="https://docs.google.com/file/d/0B8TCub8qrCY8STUxVU1Ja0xuaXM/edit">o.</a>&nbsp;Copyright&nbsp;of&nbsp;this
+website&nbsp;rests&nbsp;with&nbsp;KaShrinivaasan&nbsp;(alias)&nbsp;Shrinivas&nbsp;Kannan&nbsp;(alias)&nbsp;Srinivasan&nbsp;Kannan
+<a class="reference external" href="https://sites.google.com/site/kuja27/system/app/pages/recentChanges">Recent&nbsp;Site&nbsp;Activity&nbsp;</a>|&nbsp;<a class="reference external" href="https://sites.google.com/site/kuja27/system/app/pages/reportAbuse">Report&nbsp;Abuse&nbsp;</a>|&nbsp;<a class="reference external" href="javascript:;">Print&nbsp;Page&nbsp;</a>|&nbsp;<a class="reference external" href="https://sites.google.com/site/kuja27/system/app/pages/removeAccess">Remove&nbsp;Access&nbsp;</a>|&nbsp;Powered&nbsp;By&nbsp;`&nbsp;Google&nbsp;Sites &lt;<a class="reference external" href="http://sites.google.com/site">http://sites.google.com/site</a>&gt;`__
+<a class="reference external" href="https://sites.google.com/site/kuja27/">https://sites.google.com/site/kuja27/</a></p>
+<hr class="docutils" />
+</div>
+</body>
 </html>
